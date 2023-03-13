@@ -4,56 +4,63 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/e31bec3dc1.js" crossorigin="anonymous"></script>
     <title>Portfolio</title>
 
 <body>
-      <!-- 네비게이션 -->
-<section class="navigation">
-    <h4>JanAc's PoretFolio</h4>
-    <ul>
-        <li>header</li>
-        <li>Time line</li>
-        <li>project</li>
-        <li>skill</li>
-        <li>footer</li>
-    </ul>
-</section>
+<!-- 네비게이션 -->
+<section id="navi" class="navigation">
+    <div class="navi__topbar">
+        <h4 class="navi__title">JanAc's PoretFolio</h4>
 
-        <!-- 간단 소개 -->
-<section class="header">
-<h1>Header</h1>
-    <div class="header_name">
-        <h2>무슨 개발자가 될지는 모르지만 개발자 이재영</h2>
-        <button>다시보기</button>
-        <span>다음</span>
+        <ul class="navi__list">
+            <li>header</li>
+            <li>Time line</li>
+            <li>project</li>
+            <li>skill</li>
+            <li>footer</li>
+        </ul>
     </div>
 </section>
 
-        <!-- 연혁,소개 -->
-<h1>Time line</h1>
-<section class="introduse">
-    <h3>"멋있는 멘트 하나쓰면서 짜잔"</h3>
-    <p>
-        안녕하세요 뭔개발자인지 모르겠지만 이재영입니다.
-        뭐 나중에 어떤 식으로 공부햇는지에 대해 쓰고
-        개발하며 추구 하는 방향성에 대해 적어보고
-        어떤 회사를 찾는다에 대해 적어보기
-    </p>
+<!-- 간단 소개 -->
+<section id="Hd" class="header">
+    <h1>Header</h1>
+        <div class="header_name">
+            <h2>무슨 개발자가 될지는 모르지만 개발자 이재영</h2>
+            <button>다시보기</button>
+            <span>다음</span>
+        </div>
 </section>
 
-<section class="timeline">    
-    <ul>
-        <li>2017.02</li>
-            <span>군대 전역</span>
-        <li>2017.08</li>
-            <span>면허증 취득</span>
-        <li>2023.03</li>
-            <span>시작</span>
-    </ul>
+<!-- 연혁,소개 -->
+<section id="int" class="introduce">
+    <h3 class="introduce__title">"멋있는 멘트 하나쓰면서 짜잔"</h3>
+
+        <p class="introduce__body">
+            안녕하세요 뭔개발자인지 모르겠지만 이재영입니다.
+            뭐 나중에 어떤 식으로 공부햇는지에 대해 쓰고
+            개발하며 추구 하는 방향성에 대해 적어보고
+            어떤 회사를 찾는다에 대해 적어보기
+        </p>
 </section>
 
+<section id="tline" class="timeline">    
+    <h1 class="timeline__title">Time line</h1>
 
+    <div class="timeline__date">
+        <ul>
+            <li>2017.02<hr><span>군대 전역</span></li>
+            
+            <li>2017.08<hr><span>면허증 취득</span></li>
+            
+            <li>2023.03<hr><span>시작</span></li>
+    
+        </ul>
+    </div>
+</section>
 
+<!-- 프로젝트에 대한 내용 -->
 <h1>Projet</h1>
 
 
@@ -61,9 +68,25 @@
 
 <!-- 개인 소셜, 깃허브, 콘택트 -->
 <h1>Footer</h1>
+<section id="foot" class="footer">
 
+    <div class="footer__link">
+        <!-- instagram -->
+        <a href="https://www.instagram.com/jae_0o0_/" target="_blank">
+            <i class="fa-brands fa-instagram"></i>
+        </a>
+        <!-- blog -->
+        <a href="https://blog.naver.com/leey153" target="_blank">
+            <i class="fa-solid fa-blog"></i>
+        </a>
+        <!-- Github -->
 
-
+        <!-- face book -->
+        <a>
+        <i class="fa-brands fa-facebook"></i>
+        </a>
+    </div>
+</section>
 
 </body>
 </html>
