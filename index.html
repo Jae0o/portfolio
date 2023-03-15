@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/e31bec3dc1.js" crossorigin="anonymous"></script>
-    <title>Portfolio</title>
+    <title>JanAc's Portfolio</title>
 
 <body>
 <!-- 네비게이션 -->
@@ -27,19 +27,20 @@
     </nav>
 
 <!-- 간단 소개 -->
-<section id="Hd" class="header">
+<section id="Hd" class="section__header">
     
     <h2 class="header__text">무슨 개발자가 될지는 모르지만 개발자 이재영</h2>
 
-        <button class="header__button">다시보기</button>
+        <button class="header__button__restart">다시보기</button>
 
-        <span>다음</span>
+        <button class="header__button__next">다음</button>
         
 </section>
 
 <!-- 연혁,소개 -->
-<section id="intro" class="introduce">
-    <h3 class="introduce__title">"멋있는 멘트 하나쓰면서 짜잔"</h3>
+<section id="It" class="section__introduce">
+    <div class="introduce">
+        <h3 class="introduce__title">"멋있는 멘트 하나쓰면서 짜잔"</h3>
 
         <p class="introduce__body">
             안녕하세요 뭔개발자인지 모르겠지만 이재영입니다.
@@ -47,55 +48,87 @@
             개발하며 추구 하는 방향성에 대해 적어보고
             어떤 회사를 찾는다에 대해 적어보기
         </p>
+    </div>    
 </section>
 
-<section id="tline" class="timeline">    
-    <h1 class="timeline__title">Time line</h1>
+<section id="Tl" class="section__timeline">    
+    <div class="timeline">
+        <h1 class="timeline__title">Time line</h1>
 
-    <div class="timeline__date">
-        <ul>
-            <li>2017.02<hr><span>군대 전역</span></li>
-            
-            <li>2017.08<hr><span>면허증 취득</span></li>
-            
-            <li>2023.03<hr><span>시작</span></li>
-    
-        </ul>
+        <div class="timeline__date">
+            <ul class="timeline__list">
+                <li class="timeline__list_text">2017.02<hr><span>군대 전역</span></li>
+                
+                <li class="timeline__list_text">2017.08<hr><span>면허증 취득</span></li>
+                
+                <li class="timeline__list_text">2023.03<hr><span>시작</span></li>
+        
+            </ul>
+        </div>
     </div>
 </section>
 
 <!-- 프로젝트에 대한 내용 -->
-<h1>Projet</h1>
+<section id="Pj" class="section__project">
+    <!-- project 1 -->
+    <div class="project__1">
+        <img scr="#" value="project_img_1" class="project__img">
 
-<section id="project__1" class="project_all"></section>
-    <img scr="#" value="project_img_1" class="project__img">
+        <h3 class="project__title">
+            프로젝트 제목</h3>
 
-    <h3 class="project__title">
-        프로젝트 제목</h3>
+        <h4 class="project__subtitle">
+            프로젝트 부제목(간단 내용 요약)</h4>
 
-    <h4 class="project__subtitle">
-        프로젝트 부제목(간단 내용 요약)</h4>
+        <small class="project__function">
+            프로젝트 의 기능</small>
+            
+        <p class="project__body">
+            프로젝트의 맡은 일과와 프로젝트 시작 계기
+            어떤 프로그램을 사용했는지, 그리고 프로그램을 사용하며 배운점 혹은 새로 사용한 프로그램을
+        </p>
 
-    <small class="project__function">
-        프로젝트 의 기능</small>
-        
-    <p class="project__body">
-        프로젝트의 맡은 일과와 프로젝트 시작 계기
-        어떤 프로그램을 사용했는지, 그리고 프로그램을 사용하며 배운점 혹은 새로 사용한 프로그램을
-    </p>
+        <a href="프로젝트 경로" target="_blank" class="project__link">
+            <i class="fa-solid fa-diagram-project"></i>
+        </a>    
+    </div>
+    <!-- project 2 -->
+    <div class="project__2">
+        <img scr="#" value="project_img_2" class="project__img">
 
-    <a href="프로젝트 경로" target="_blank" class="project__link">
-        <i class="fa-solid fa-diagram-project"></i>
-    </a>    
+        <h3 class="project__title">
+            프로젝트 제목</h3>
+
+        <h4 class="project__subtitle">
+            프로젝트 부제목(간단 내용 요약)</h4>
+
+        <small class="project__function">
+            프로젝트 의 기능</small>
+            
+        <p class="project__body">
+            프로젝트의 맡은 일과와 프로젝트 시작 계기
+            어떤 프로그램을 사용했는지, 그리고 프로그램을 사용하며 배운점 혹은 새로 사용한 프로그램을
+        </p>
+
+        <a href="프로젝트 경로" target="_blank" class="project__link">
+            <i class="fa-solid fa-diagram-project"></i>
+        </a>    
+    </div>
 </section>
 
-    <h1>skill</h1>
+<section>
+    <div>
 
+        <h1>skills</h1>
+    </div>
+
+
+</section>
 <!-- 개인 소셜, 깃허브, 콘택트 -->
-<h1>Footer</h1>
-<section id="foot" class="footer">
-    <div class="footer__bar">
-        <div class="footer__link">
+<section id="foot" class="section__footer">
+
+    <div class="contact__bar">
+        <div class="contact__link">
             <!-- instagram -->
             <a href="https://www.instagram.com/jae_0o0_/" target="_blank">
                 <i class="fa-brands fa-instagram"></i>
@@ -113,9 +146,10 @@
                 <i class="fa-brands fa-facebook"></i>
             </a>
         </div>
-        <div class="footer__title">
+
+        <div class="footer__copyright">
             <i class="fa-sharp fa-solid fa-circle-exclamation"></i>
-            <span class=" footer__title__text">
+            <span class=" footer__copyright__text">
                 2023. Lee Jae Young. All rights reserved.</span>
         </div>
     </div>
