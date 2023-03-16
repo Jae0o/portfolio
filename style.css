@@ -89,3 +89,42 @@ h4 {
     color: var(--color-black);
     margin: 4px 0px;
 }
+
+/* navi bar */
+
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0px;
+    margin: 0px 0px;
+    background-color: var(--color-dark-white);
+}
+
+.nav__logo {
+    font-size: var(--font-medium);
+    font-weight: var(--weight-semi-bold);
+    color: white;
+}
+
+.nav__menu {
+    display: flex;
+}
+
+.nav__menu__text.active{
+    border: 1px solid white;
+    border-radius: var(--size-border-radius);
+}
+
+.nav__menu__text {
+    padding: 8px 12px;
+    margin: 0px 4px;
+    color:var(--color-white);
+    font-weight: var(--weight-bold);
+    cursor: pointer;
+}
+
+.nav__menu__text:hover {
+    background-color: var(--color-dark-grey);
+    border-radius: var(--size-border-radius);
+}
