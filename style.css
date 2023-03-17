@@ -96,15 +96,23 @@ h4 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px 0px;
+    padding: px 0px;
     margin: 0px 0px;
     background-color: var(--color-dark-white);
+    border-bottom-left-radius: 500px;
 }
 
 .nav__logo {
     font-size: var(--font-medium);
     font-weight: var(--weight-semi-bold);
     color: white;
+    padding: 0px 15px;
+}
+
+.nav__logo__img {
+    padding: auto;
+    width: 50px;
+    margin: 0px 0px -14px 0px;
 }
 
 .nav__menu {
