@@ -190,3 +190,18 @@ h4 {
     border: var(--color-white) 2px solid;
     border-radius: var(--size-border-radius);
 }
+
+
+/* section common */
+.section {
+
+    padding: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+.section__container {
+    max-width: 1200px;
+    margin:auto;
+    
+}
