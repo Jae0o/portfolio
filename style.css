@@ -38,6 +38,7 @@
 
 body {
     margin: 0;
+
 }
 
 a {
@@ -96,21 +97,26 @@ h4 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: px 0px;
+
+    padding: 0px 0px;
     margin: 0px 0px;
+
     background-color: var(--color-dark-white);
-    border-bottom-left-radius: 500px;
+    border-bottom-left-radius: 50px;
 }
 
 .nav__logo {
     font-size: var(--font-medium);
     font-weight: var(--weight-semi-bold);
+
     color: white;
+
     padding: 0px 15px;
 }
 
 .nav__logo__img {
     padding: auto;
+    
     width: 50px;
     margin: 0px 0px -14px 0px;
 }
@@ -134,5 +140,53 @@ h4 {
 
 .nav__menu__text:hover {
     background-color: var(--color-dark-grey);
+    border-radius: var(--size-border-radius);
+}
+
+/* header */
+
+#hd {
+    padding: 40px; 
+    text-align: center;
+
+    background: url(imgs/background__img.jpg) center/cover no-repeat;
+
+
+}
+
+.header__img {
+    width: 250px;
+    height :250px;
+
+    border-radius:50%;
+    border: 2px var(--color-black) solid;
+}
+
+.header__title,
+.header__text {
+    color: var(--color-white);
+}
+
+.header__button__restart {
+    color : var(--color-white);
+    font-size: var(--font-regular);
+    font-weight: var(--weight-bold);
+
+    margin: 24px;
+    padding: 8px;
+
+    border: var(--color-white) 2px solid;
+    border-radius: var(--size-border-radius);
+}
+
+.header__button__next {
+    color: var(--color-white);
+    font-size: var(--font-regular);
+    font-weight: var(--weight-bold);
+
+    margin: 24px;
+    padding: 8px;
+
+    border: var(--color-white) 2px solid;
     border-radius: var(--size-border-radius);
 }
