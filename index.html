@@ -60,24 +60,26 @@
 </section>
 
 <section id="tl" class="section">    
-    <div class="timeline">
-        <h1 class="timeline__title">Time line</h1>
+    <h3 class="timeline__title">Time line</h3>
 
-        <div class="timeline__date">
-            <ul class="timeline__list">
-                <li class="timeline__list_text">2017.02<hr><span>군대 전역</span></li>
-                
-                <li class="timeline__list_text">2017.08<hr><span>면허증 취득</span></li>
-                
-                <li class="timeline__list_text">2023.03<hr><span>시작</span></li>
-        
-            </ul>
+    <div class="timeline">
+        <div class="timeline__list">
+            <div class="timeline__list__title"> 군대 전역</div>
+            <div class="timeline__list__date"> 전역 일자</div>
+        </div>
+        <div class="timeline__list">
+            <div class="timeline__list__title"> 대학</div>
+            <div class="timeline__list__date"> 졸업일자</div>
+        </div>   
+        <div class="timeline__list">
+            <div class="timeline__list__title"> 학원</div>
+            <div class="timeline__list__date"> 끝난일자</div>
         </div>
     </div>
 </section>
 
 <!-- 프로젝트에 대한 내용 -->
-<section id="Pj" class="section">
+<section id="project" class="section">
     <!-- project 1 -->
     <div class="project__1">
         <img src="imgs/profile.png" alt="project__img__1" >
@@ -125,74 +127,78 @@
 </section>
 <!-- 스킬 -->
 <section id="skill" class="section">
-    <!-- 개발자 스킬들 -->
-    <div class="skills">
-        <h1 class="skills__list__title">skills</h1>
-        <div class="skills__list">
-            <!-- 프론트엔드 -->
-            <div class="skills__frontend">
-                <h3 class="skills__frontend__title">Frontend</h3>
 
+<div class="skill__top">
+    <h1 class="skill__list__title">skills</h1>
+
+        <!-- 프론트엔드 -->
+        <div class="skill__frontend">
+            <h3 class="skill__frontend__title">Frontend</h3>
+
+                <!-- html -->
                 <div class="skill">
-                    <!-- html -->
                     <div class="skill__text">
                         <span>Html</span>
-                        <span>##%</span>
+                        <span>90%</span>
                     </div>
                     <div class="skill__bar">
                         <div class="skill__bar__value" style="width: 90%;"></div>
                     </div>
+                </div>
                     <!-- css -->
+                <div class="skill">
                     <div class="skill__text">
                         <span>Css</span>
-                        <span>##%</span>
+                        <span>64%</span>
                     </div>
                     <div class="skill__bar">
-                        <div class="skill__bar__value" style="width: 90%;"></div>
+                        <div class="skill__bar__value" style="width: 64%;"></div>
                     </div>
-                    <!-- java script -->
+                </div>
+                <!-- java script -->
+                <div class="skill">
                     <div class="skill__text">
                         <span>Java Script</span>
-                        <span>##%</span>
+                        <span>64%</span>
                     </div>
                     <div class="skill__bar">
-                        <div class="skill__bar__value" style="width: 90%;"></div>
+                        <div class="skill__bar__value" style="width: 64%;"></div>
                     </div>
                 </div>
-            </div>
-            <!-- 백엔드 -->
-            <div class="skills__backend">
-                <h3 class="skills__backend__title">Backend</h3>
+        </div>
 
-                <div class="skill">
-                    <!-- 백엔드 스킬이름 -->
-                    <div class="skill__text">
-                        <span>backend skill name</span>
-                        <span>##%</span>
-                    </div>
-                    <div class="skill__bar">
-                        <div class="skill__bar__value" style="width: 90%;"></div>
-                    </div>
-                </div>
+</div> 
+
+<div class="skill__top">
+    <!-- 백엔드 -->
+    <div class="skills__backend">
+        <h3 class="skills__backend__title">Backend</h3>
+        
+        <div class="skill">
+            <!-- 백엔드 스킬이름 -->
+            <div class="skill__text">
+                <span>backend skill name</span>
+                <span>##%</span>
             </div>
-        </div>       
-    </div>
+            <div class="skill__bar">
+                <div class="skill__bar__value" style="width: 90%;"></div>
+            </div>
+        </div>
+    </div>      
     <!-- 자격증 -->
     <div class="certificate">
-        <div class="certificate__logo">
-            <img scr="#">
-        </div>
+            <img src="imgs/JY_logo.png" class="certificate__logo">
+
         <div class="certificate__text">
             <span> 자격증 이름 </span>
             <span> 자격증 취득 날짜</span>
         </div>
-
     </div>
-
+</div>
 
 </section>
 <!-- 개인 소셜, 깃허브, 콘택트 -->
-<section id="foot" class="section">
+<section id="footer" class="section">
 
     <div class="contact__bar">
         <div class="contact__link">
@@ -224,3 +230,11 @@
 
 </body>
 </html>
+
+<div>
+    <ul>
+        <li class="test1">test1</li>
+        <li class="test2">test2</li>
+        <li class="test3">test3</li>
+    </ul>
+</div>
