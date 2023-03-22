@@ -20,60 +20,56 @@
             <button class="home__button__restart"> Restart </button>
             <button class="home__button__next"> Next </button>
         </div>
-
-
     </section>
-    <!-- nav & (history & about me) -->
-    <section id="story__box">
+    <!-- nav -->
+    <section id="nav">
+        <div class="nav__title">
+            <img src="imgs/JY_logo.png" alt="logo" class="nav__title__logo">
+            <a class="nav__title__text"> Jae Yeon</a>
+        </div>
+        <ul class="nav__list">
+            <li class="nav__list__text"><i class="fa-solid fa-house-user"></i> Home </li>
+            <li class="nav__list__text"><i class="fa-solid fa-book"></i> Story </li>
+            <li class="nav__list__text"><i class="fa-solid fa-file-code"></i> Skill </li>
+            <li class="nav__list__text"><i class="fa-solid fa-diagram-project"></i> Project </li>
+            <li class="nav__list__text"><i class="fa-solid fa-link"></i> Footer </li>
+        </ul>
+    </section>
+    <!-- story -->
+    <section id="story">
+        <img src="imgs/profile.png" alt="profile_img" class="story__img">
 
-        <!-- nav -->
-        <section id="nav">
-            <a class="nav__title">
-                <img src="imgs/JY_logo.png" alt="logo" class="nav__title__logo">
-                Jae Yeon
-            </a>
-            <ul>
-                <li class="home"><i class="fa-solid fa-house-user"></i> Home </li>
-                <li class="story"><i class="fa-solid fa-book"></i> Story </li>
-                <li class="skill"><i class="fa-solid fa-file-code"></i> Skill </li>
-                <li class="project"><i class="fa-solid fa-diagram-project"></i> Project </li>
-                <li class="footer"><i class="fa-solid fa-link"></i> Footer </li>
-            </ul>
-        </section>
-
-        <!-- story -->
-        <section id="story">
-            <img src="imgs/profile.png" alt="profile_img" class="story__img">
-
-            <div class="story__body">
-                <!-- about me -->
-                <div class="story__text">
-                    <h3 class="story__text__title"> #### developer Lee Jae Yeong </h3>
-                    <small class="story__text__subtitle">There is no one who loves pain itself</small>
-                    <p class="story__text__body">The standard chunk of Lorem Ipsum used since the 1500s is reproduced
-                        below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by
-                        Cicero are also reproduced in their exact original form, accompanied by English versions from
-                        the 1914 translation by H. Rackham.</p>
-                </div>
-                <!-- history & certificate -->
-                <div class="story__aboutme">
-                    <!-- history -->
-                    <ul class="history">
-                        <li class="history__list"> 대전 예술고등학교 졸업 </li>
-                        <li class="history__list"> 용인대학교 졸업 </li>
-                        <li class="history__list"> 군대 전역 </li>
-                        <li class="history__list"> 뭔가를 했겠지 </li>
-                        <li class="history__list"> 뭐도 했겠지 </li>
-                    </ul>
-                    <!-- certificate -->
-                    <ul class="certificate">
-                        <li class="certificate__list"> 운전면허 취득 </li>
-                        <li class="certificate__list"> 컴퓨터 활용 능력 1급 </li>
-                        <li class="certificate__list"> 정보처리기사 </li>
-                    </ul>
-                </div>
+        <div class="story__body">
+            <!-- about me -->
+            <div class="story__text">
+                <h3 class="story__text__title"> #### developer Lee Jae Yeong </h3>
+                <small class="story__text__subtitle">There is no one who loves pain itself</small>
+                <p class="story__text__body">The standard chunk of Lorem Ipsum used since the 1500s is
+                    reproduced
+                    below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et
+                    Malorum" by
+                    Cicero are also reproduced in their exact original form, accompanied by English versions
+                    from
+                    the 1914 translation by H. Rackham.</p>
             </div>
-        </section>
+            <!-- history & certificate -->
+            <div class="story__aboutme">
+                <!-- history -->
+                <ul class="history">
+                    <li class="history__list"> 대전 예술고등학교 졸업 </li>
+                    <li class="history__list"> 용인대학교 졸업 </li>
+                    <li class="history__list"> 군대 전역 </li>
+                    <li class="history__list"> 뭔가를 했겠지 </li>
+                    <li class="history__list"> 뭐도 했겠지 </li>
+                </ul>
+                <!-- certificate -->
+                <ul class="certificate">
+                    <li class="certificate__list"> 운전면허 취득 </li>
+                    <li class="certificate__list"> 컴퓨터 활용 능력 1급 </li>
+                    <li class="certificate__list"> 정보처리기사 </li>
+                </ul>
+            </div>
+        </div>
     </section>
 
     <!-- skill -->
@@ -162,8 +158,10 @@
                 <img src="imgs/JY_logo.png" alt="project_1_img" class="project__img">
                 <div class="project__title">Jaeyeong's Portfolio </div>
                 <div class="project__subtitle"> 만들어서 구동되는 기술들에 대한 간단한 요약정도"</div>
-                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤 방식으로
-                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것 같다."
+                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤
+                    방식으로
+                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것
+                    같다."
                 </div>
                 <div class="project__skill">
                     <div class="project__skill__logo"> <i class="fa-brands fa-html5"></i> </div>
@@ -177,8 +175,10 @@
                 <img src="imgs/JY_logo.png" alt="project_2_img" class="project__img">
                 <div class="project__title"> project 2 title</div>
                 <div class="project__subtitle">"만들어서 구동되는 기술들에 대한 간단한 요약정도"</div>
-                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤 방식으로
-                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것 같다."
+                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤
+                    방식으로
+                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것
+                    같다."
                 </div>
                 <div class="project__skill">
                     <div class="project__skill__logo"> <i class="fa-brands fa-html5"></i> </div>
@@ -190,8 +190,10 @@
                 <img src="imgs/JY_logo.png" alt="project_3_img" class="project__img">
                 <div class="project__title"> project 3 title </div>
                 <div class="project__subtitle">"만들어서 구동되는 기술들에 대한 간단한 요약정도"</div>
-                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤 방식으로
-                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것 같다."
+                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤
+                    방식으로
+                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것
+                    같다."
                 </div>
                 <div class="project__skill">
                     <div class="project__skill__logo"> <i class="fa-brands fa-html5"></i> </div>
@@ -203,8 +205,10 @@
                 <img src="imgs/JY_logo.png" alt="project_4_img" class="project__img">
                 <div class="project__title"> project 4 title </div>
                 <div class="project__subtitle">"만들어서 구동되는 기술들에 대한 간단한 요약정도"</div>
-                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤 방식으로
-                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것 같다."
+                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤
+                    방식으로
+                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것
+                    같다."
                 </div>
                 <div class="project__skill">
                     <div class="project__skill__logo"> <i class="fa-brands fa-html5"></i> </div>
@@ -216,8 +220,10 @@
                 <img src="imgs/JY_logo.png" alt="project_5_img" class="project__img">
                 <div class="project__title"> project 5 title </div>
                 <div class="project__subtitle">"만들어서 구동되는 기술들에 대한 간단한 요약정도"</div>
-                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤 방식으로
-                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것 같다."
+                <div class="project__body"> "이 프로젝트에 대해 시작하게 된 계기가 무엇이고 혹은 컨택트 계기가 무엇이고 이 일에서 맡게 된 파트가 어떤 부분이고 어떤
+                    방식으로
+                    처리했으며 이일을 처리하면서 내가 느끼게 된 감정이나 혹은 새롭게 사용 하게 되어 알게된 사실 혹은 이 프로젝트로 인해 생겨난 목표와 공부 방향성에 대해 적어보면 좋을것
+                    같다."
                 </div>
                 <div class="project__skill">
                     <div class="project__skill__logo"> <i class="fa-brands fa-html5"></i> </div>
@@ -269,6 +275,7 @@
         <!-- copy right -->
         <div class="contact__copyright">2023. Lee Jae Young. All rights reserved.</div>
     </section>
+
 </body>
 
 </html>

@@ -106,3 +106,85 @@ button {
     border: var(--color-black) 0.2rem solid;
     background-color: var(--color-light-white);
 }
+
+/* nav bar*/
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0.5rem;
+    padding: 0.5rem;
+    margin: 0rem 2rem;
+    background: url(imgs/background__img.jpg) center/cover no-repeat;
+    border: var(--color-white) 0.2rem solid;
+    border-radius: var(--size-radius-large);
+}
+
+/* nav title */
+.nav__title {
+    display: flex;
+    align-items: center;
+}
+
+.nav__title__logo {
+    width: 2.5rem;
+    height: 2.5rem;
+
+    margin: 0.5rem;
+
+    border: var(--color-light-white) 0.2rem solid;
+    border-radius: var(--size-radius-regular);
+}
+
+.nav__title__text {
+    color: var(--color-light-white);
+    font-size: var(--font-semi-large);
+    font-weight: var(--weight-medium);
+    margin: 0.5rem;
+}
+
+/* nav list */
+.nav__list {
+    display: flex;
+    margin: 0;
+}
+
+.nav__list__text {
+    color: var(--color-light-white);
+    font-size: var(--font-regular);
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border: var(--color-light-white) 0.2rem solid;
+    border-radius: var(--size-radius-regular);
+    cursor: pointer;
+}
+
+.nav__list__text:hover {
+    color: var(--color-black);
+    border: var(--color-black) 0.2rem solid;
+    background-color: var(--color-light-white);
+}
+
+/* story */
+#story {
+    height: 100vh;
+    width: 100vw;
+
+    border: var(--test-border);
+}
+
+/* skill */
+#skill {
+    height: 100vh;
+    width: 100vw;
+}
+
+/* project */
+
+
+/* footer */
+#footer {
+    height: 100vh;
+    width: 100vw;
+}
