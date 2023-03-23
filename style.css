@@ -112,7 +112,7 @@ button {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* position: sticky; */
+    position: sticky;
     top: 0.5rem;
     padding: 0.5rem;
     margin: 0rem 2rem;
@@ -128,10 +128,10 @@ button {
 }
 
 .nav__title__logo {
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 2.4rem;
+    height: 2.4rem;
 
-    margin: 0.5rem;
+    margin: 0.2rem;
 
     border: var(--color-light-white) 0.2rem solid;
     border-radius: var(--size-radius-regular);
@@ -154,7 +154,7 @@ button {
     color: var(--color-light-white);
     font-size: var(--font-regular);
     padding: 0.5rem;
-    margin: 0.5rem;
+    margin: 0.2rem;
     border: var(--color-light-white) 0.2rem solid;
     border-radius: var(--size-radius-regular);
     cursor: pointer;
@@ -166,17 +166,7 @@ button {
     background-color: var(--color-light-white);
 }
 
-/* story */
-#story {
-    height: 100vh;
-    width: 100vw;
-}
-
-
-
-
-
-
+/* project */
 
 /* skill */
 #skills {
@@ -217,8 +207,6 @@ button {
     margin: 1rem 3rem;
 }
 
-
-
 /* frontend & back end */
 .frontend,
 .backend {
@@ -227,7 +215,7 @@ button {
     flex-direction: column;
     justify-content: space-between;
     padding: 1rem;
-    margin: 0 5vmax;
+    margin: 5vmin 5vmax 0;
     border: var(--color-light-white) 0.2rem solid;
     border-radius: var(--size-radius-large);
 }
@@ -267,17 +255,70 @@ button {
     background: url(imgs/background__img.jpg) center/cover no-repeat;
 }
 
+/* story */
+#story {
+    height: 88vh;
+    width: 100vw;
+
+    border: var(--test-border)
+}
 
 
-
-
-
-
-/* project */
 
 
 /* footer */
 #footer {
-    height: 100vh;
-    width: 100vw;
+    height: 12vh;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 2rem;
+    background: url(imgs/background__img.jpg) center/cover no-repeat;
+    border-radius: var(--size-radius-large);
+}
+
+
+#footer>.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#footer>.contact>div {
+    margin-left: 1rem;
+    color: var(--color-light-white);
+    font-size: var(--font-medium);
+}
+
+#footer>.contact>ul {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem 0 0 0;
+    color: var(--color-light-white);
+}
+
+.contact__copyright {
+    align-self: center;
+    color: var(--color-light-white);
+    font-size: var(--font-semi-medium);
+}
+
+#footer>.contact>ul>li>a {
+    display: flex;
+    color: var(--color-light-white);
+    font-size: var(--font-semi-medium);
+    padding: 0.2rem;
+    margin: 0 0.2rem;
+
+    border: var(--color-light-white) 0.1rem solid;
+    border-radius: var(--size-radius-regular);
+}
+
+#footer>.contact>ul>li>a>i {
+    margin: 0 0.2rem 0 0;
+}
+
+#footer>.contact>ul>li>a .kakao__logo {
+    width: var(--font-semi-medium);
+    height: var(--font-semi-medium);
+    margin: 0 0.2rem 0 0;
 }
