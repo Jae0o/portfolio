@@ -259,12 +259,100 @@ button {
 #story {
     height: 88vh;
     width: 100vw;
-
-    border: var(--test-border)
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 8vh;
 }
 
+.story__background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vh;
+    height: 50vh;
+    background: url(imgs/background__img.jpg) center/cover no-repeat;
+    border-radius: 50%;
+}
 
+.story__img {
+    width: 48vh;
+    border: var(--color-white) 0.2rem solid;
+    border-radius: 50%;
+}
 
+.story__body {
+    height: 60vh;
+    width: 35vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+    background: url(imgs/background__img.jpg) center/cover no-repeat;
+    border-radius: var(--size-radius-large);
+    border: black 0.1rem solid;
+}
+
+.story__text {
+    height: 30vh;
+    width: 33vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0 1.5rem;
+    border: var(--color-white) 0.2rem solid;
+    border-radius: var(--size-radius-large);
+}
+
+.story__text__title {
+    font-size: var(--font-semi-large);
+    font-weight: var(--weight-medium);
+}
+
+.story__text__subtitle {
+    font-size: var(--font-small);
+    margin: 1rem 0;
+}
+
+.story__text__body {
+    margin: 0;
+}
+
+.history {
+    height: 25vh;
+    width: 33vw;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0 0.5rem;
+    background-color: var(--color-white);
+    border-radius: var(--size-radius-large);
+}
+
+.history__box {
+    width: 15vw;
+}
+
+.history__list {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0.5rem 0;
+}
+
+.history__list__date {
+    align-self: flex-end;
+}
+
+.history__list__bar {
+    height: 0.1rem;
+    width: 100%;
+    background-color: var(--color-black);
+}
 
 /* footer */
 #footer {
