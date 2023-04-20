@@ -112,13 +112,19 @@ button {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
+    position: fixed;
+    width: 90%;
     top: 0.5rem;
     padding: 0.5rem;
     margin: 0rem 2rem;
-    background: url(imgs/background__img.jpg) center/cover no-repeat;
+    background: transparent;
     border: var(--color-white) 0.2rem solid;
     border-radius: var(--size-radius-large);
+    transition: all 1s;
+}
+
+#nav.navbar--dark {
+    background: black;
 }
 
 /* nav title */
