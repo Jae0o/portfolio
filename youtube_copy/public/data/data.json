@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "SccljBuWbLCFViCMeHMPMnp92jI",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0tPxq6w_0SXVb7Q6tkm7N6Og_PA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yso8EiY36dg"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-28T12:00:16Z",
+                "channelId": "UC5RKeYy6_UViWigs89cks6g",
+                "title": "10시간🌷한옥에서 잔잔한 가야금 연주 10시간 연속듣기🌈⎮ 중간광고없음 ⎮ 집중 공부 힐링 휴식 감성 명상 태교음악  10Hours korea gayageum Play",
+                "description": "연속듣기 #10시간 #gayageum #gayageumcover #가야금연주 #가야금 #커버 가야금연주 - 서예지 ❤️안녕하세요 가야금 연주자 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yso8EiY36dg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yso8EiY36dg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yso8EiY36dg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YEJIgayageum_가야금예지",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-28T12:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Wh9H7VlP_nLeJLS4mGfdHQ1Ft40",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5pjFquGzatU"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-16T10:30:00Z",
+                "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+                "title": "[#너목보] 듣기만 해도 국뽕 충전. 너목보 레전드 국악 1시간 플레이리스트 (ICSYV legend / Gugak / Music of Korea) | #편집자는 #디글",
+                "description": "너의목소리가보여 #Diggle #디글 편집자는 덕질 중! 본격 편집자 덕업일치 자랑하는 영상 모음집   Let's giggle, :Diggle! 방송국놈들 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5pjFquGzatU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5pjFquGzatU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5pjFquGzatU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "디글 :Diggle",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-16T10:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6RNg-So2GDd9JQXzzehFhQ7m69o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Np5mhCQ8atU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-11T08:47:35Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[뮤직 어게인 풍류대장] 난 몰랐어 국악이 이리 다채로운지~ 팔색조 여신 최예림 무대 다 모았다↗",
+                "description": "[뮤직 어게인 풍류대장] 난 몰랐어 국악이 이리 다채로운지~ 팔색조 여신 최예림 무대 다 모았다↗ #풍류대장 #풍류대장최예림 #최 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Np5mhCQ8atU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Np5mhCQ8atU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Np5mhCQ8atU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-11T08:47:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iaS7mdVU8lurtgJXWZCBZho3lf8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rDmMpqyQOi4"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-26T13:00:15Z",
+                "channelId": "UCJZxEtjVBVYDYCZE6RlbU1w",
+                "title": "[playlist] 국악기 환상의 조합 - 대금 x 가야금 버젼 준비하였사옵니다",
+                "description": "대금 #가야금 #연주곡 안녕하세요! 대금이누나 입니다. 오늘의 플레이리스트는 대금과의 환상 조합인 가야금합주 모음곡 입니다^^ 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rDmMpqyQOi4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rDmMpqyQOi4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rDmMpqyQOi4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "대금이누나 _Daegeumi Nuna",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-26T13:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "twYjW5vQlce6FklD9QiKsawfZx4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cPYMNC5bDpw"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-19T11:00:06Z",
+                "channelId": "UCC0AwFlfmUeJj_St2CxQ9dQ",
+                "title": "마음을 다스리는 국악명상음악",
+                "description": "설명.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cPYMNC5bDpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cPYMNC5bDpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cPYMNC5bDpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "편안한 음악",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-19T11:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1lv-6LbumEEOYpDP3IsUq3io_Ug",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ZdaFdbiQvo"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-29T13:00:12Z",
+                "channelId": "UCJZxEtjVBVYDYCZE6RlbU1w",
+                "title": "[playlist] 30-40대 한국인이 좋아할 감성 발라드 대금 연주 19곡을 준비하였사옵니다.",
+                "description": "30-40대 #감성발라드 #국악기버전 안녕하세요! 대금이누나 입니다. 오늘의 플레이리스트는 30-40대가 좋아할 대금 연주곡 19곡 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ZdaFdbiQvo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ZdaFdbiQvo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ZdaFdbiQvo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "대금이누나 _Daegeumi Nuna",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-29T13:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XGiP7uC4x7rPwpFInJ6h5zy8Bs8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GRL-X6lvZeg"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-13T02:00:10Z",
+                "channelId": "UC9mHkjuEZAXQBOpZkYLLxxw",
+                "title": "※고퀄주의※ 한국의 색을 담은 아름다운 나라(Fly To The Sky) | 듣기만 해도 벅차오르는 그 음악 | 드오 Cover",
+                "description": "본 영상은 [혼수원 타래]에서 의상을 협찬 받아 제작되었습니다. * 본 영상은 교육부의 대학혁신지원사업의 지원을 받아 제작 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GRL-X6lvZeg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GRL-X6lvZeg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GRL-X6lvZeg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "드오 De O",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-13T02:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HDKuHL-aC8gkr_e__Wr7VTgtvII",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PaujUO7uEMw"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-23T09:27:34Z",
+                "channelId": "UCXMN1c6TIGCYHbw3-zHOEIg",
+                "title": "[조선팝 DJ] 잔잔하고 아련한 “사극풍” 플레이리스트 ..💗 (1시간 모음)",
+                "description": "[조선팝 DJ] 잔잔하고 아련한 “사극풍” 플레이리스트 .. (1시간 모음) #발라드 #감성 #사극풍 #플레이리스트 1. 차지연_ 살다보면 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PaujUO7uEMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PaujUO7uEMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PaujUO7uEMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "퓨전국악 비단",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-23T09:27:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WdDio4pBh5HOzwfbn2923gE3aq4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2vmVkDpySBM"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-17T11:00:02Z",
+                "channelId": "UCaBwNyKKjDaYIzS8dhyaXBA",
+                "title": "[국악콘서트 판] 처용무 - 인남순 명무 외",
+                "description": "[국악콘서트 판] 처용무 - 인남순, 나연주, 윤이재, 김꽃지, 조은서 * [국악콘서트 판]의 풀버전은 국악방송 홈페이지에서 시청하실 수 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2vmVkDpySBM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2vmVkDpySBM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2vmVkDpySBM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GugakTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-17T11:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ElX_cLj2Q7wk_juf8Wg6F70WnFE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qn-_Te8MZ5k"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-29T09:00:14Z",
+                "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+                "title": "[#너목보9] 사극 한 편 본 것 같음...😮 한국인의 얼이 느껴지는 너목보 국악 모음 20분 | #디제이픽",
+                "description": "너목보9 #Diggle #디글 취향저격! 당신이 원하던 그 플레이리스트 [#디제이픽  ] Let's giggle, :Diggle! 방송국놈들이 덕질하는 채널 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qn-_Te8MZ5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qn-_Te8MZ5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qn-_Te8MZ5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "디글 :Diggle",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-29T09:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ysmdpSAcyjoJpHsXUKDEiYgJfsk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SJzhExJVnfQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-02T12:28:37Z",
+                "channelId": "UCC6fYTZ9AIkqNy6zYEHVwow",
+                "title": "가요 국악버전 모음  / KPOP / 공부할때듣는음악 노동요",
+                "description": "MP3 : https://flowmusic.kr YouTube Music: https://bit.ly/3ThZFc2 Spotify: https://spoti.fi/3KkqhUr Melon: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SJzhExJVnfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SJzhExJVnfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SJzhExJVnfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Flow Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-02T12:28:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fhLkuefpCgz0n0EroGLdplZ-dq8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e-iK32dmil4"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-24T22:00:06Z",
+                "channelId": "UCdWbq4cNN8CZXS-Yk32aXXw",
+                "title": "하루 종일 들어도 좋은 노래 - 국악 민요 메들리 - 굿거리장단 민요메들리",
+                "description": "하루 종일 들어도 좋은 노래 - 국악 민요 메들리 - 굿거리장단 민요메들리 https://youtu.be/e-iK32dmil4.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e-iK32dmil4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e-iK32dmil4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e-iK32dmil4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "목록상위",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-24T22:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "n8aK_wMFRJiQoaTG_xeuOrRPT0Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uCFITNbTwoo"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-15T09:20:56Z",
+                "channelId": "UC0_hyKz-XxqSGRZkp0NRrAg",
+                "title": "마음을 비우고 치유하는 국악명상음악,  &quot;비움&quot; / 힐링休",
+                "description": "치유와 명상, Music for Healing and Relaxation, 한국인에게 가장 잘 어울리는 국악명상음악입니다. 왕준기 교수와 유병직 프로듀서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uCFITNbTwoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uCFITNbTwoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uCFITNbTwoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SereneSky[적천]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-04-15T09:20:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "88VJDRHPsvtC8rwNBtHhbb0IZGk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vAfGiNxDUag"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-17T13:00:12Z",
+                "channelId": "UCepUWUpH45hRTi-QePdq1Bg",
+                "title": "이렇게 애절할 수 있다니,, 예상치 못했던 국악과 가요의 만남 &#39;인연&#39; 거의 한을 토해내는 정도..👍 | #다시보는_너의목소리가보여1 | #Diggle",
+                "description": "이렇게 애절할 수 있다니,, 예상치 못했던 국악과 가요의 만남 '인연' 거의 한을 토해내는 정도..   #다시보는_너의목소리가보여1 #너의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vAfGiNxDUag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vAfGiNxDUag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vAfGiNxDUag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-17T13:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iRs9BzDocXcojoHrioEoBguQiwc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UlYxjjZEsG8"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-25T10:16:27Z",
+                "channelId": "UCC6fYTZ9AIkqNy6zYEHVwow",
+                "title": "YOASOBI - IDOL Epic Orchestra 아이돌 국악버전 최애의 아이 アイドル",
+                "description": "Yoru ni Kakeru Epic Orchestra Ver:: https://youtu.be/ExK7-WMhTGw YouTube Music: https://bit.ly/3hyJAQv Spotify: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UlYxjjZEsG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UlYxjjZEsG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UlYxjjZEsG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Flow Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-25T10:16:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RK13Aw4smQuqsEzTzfDF1Ksu2eo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u2TGEys3otI"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-17T06:57:56Z",
+                "channelId": "UCdWbq4cNN8CZXS-Yk32aXXw",
+                "title": "국악 민요 메들리 - 굿거리장단 민요메들리 - 하루 종일 들어도 좋은 노래",
+                "description": "국악 민요 메들리 - 굿거리장단 민요메들리 - 하루 종일 들어도 좋은 노래 https://youtu.be/u2TGEys3otI.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u2TGEys3otI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u2TGEys3otI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u2TGEys3otI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "목록상위",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-17T06:57:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IqW8smTVqQ9NXfnKrCC5Xp4iIzo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "txeImT2e618"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-19T13:00:18Z",
+                "channelId": "UCepUWUpH45hRTi-QePdq1Bg",
+                "title": "역대급 구슬픈 거미의 &#39;아니&#39; 발라드와 국악의 완벽한 만남 이건 진짜 꼭 봐야해ㅠㅠ 거의 심멎수준♥ | #다시보는_너의목소리가보여2 | #Diggle",
+                "description": "역대급 구슬픈 거미의 '아니' 발라드와 국악의 완벽한 만남 이건 진짜 꼭 봐야해ㅠㅠ 거의 심멎수준♥ #다시보는_너의목소리가보여2# ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/txeImT2e618/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/txeImT2e618/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/txeImT2e618/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-19T13:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "On9UJEbjBiDDOKewrbKh5kDbLIU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mEEJ_RrHRN8"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T11:51:02Z",
+                "channelId": "UCDSTjBBcOA6ULKx3Qjjh1uA",
+                "title": "한국인 나오자 코웃음치던 영국인들 한국 전통음악 듣고 얼어버린 이유",
+                "description": "구독과 좋아요는 항상 큰 힘이 됩니다 방문해주셔서 고맙습니다 #해외반응 #범내려온다 #이날치 이날치는 대한민국의 조선팝 밴드로 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mEEJ_RrHRN8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mEEJ_RrHRN8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mEEJ_RrHRN8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "한끼 뮤직 ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-06T11:51:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CoLJ_bQ4rFd0yKE-0QkSpIFTC08",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qTInU4MTKws"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-10T08:53:57Z",
+                "channelId": "UCw7ej35vkwxRMWvH8DeoCNQ",
+                "title": "서쪽하늘 &#39;국악창법&#39; vs &#39;락발라드&#39; 대결✌ | 권미희 버블디아 서쪽하늘 이승철",
+                "description": "INSTRUMENT 는 직접 제작했습니다* 편곡& 기타리스트 : 박훈진 Mix&Mastered 이승재(TheGrand)@우리녹음실 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qTInU4MTKws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qTInU4MTKws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qTInU4MTKws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "버블디아",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-10T08:53:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qesszlTTW74po85-JIJ8059cdWI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pUTOEoLUB50"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-25T06:49:23Z",
+                "channelId": "UCaBwNyKKjDaYIzS8dhyaXBA",
+                "title": "[국악무대] 국립국악관현악단 베스트컬렉션",
+                "description": "이 프로그램은 방송통신위원회의 방송통신발전기금을 지원받아 제작되었습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pUTOEoLUB50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pUTOEoLUB50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pUTOEoLUB50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GugakTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-03-25T06:49:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K6Ev2VcI1dN62dx4x1SO8FdRG10",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r9Qh8QTunDo"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-07T09:25:28Z",
+                "channelId": "UCEbRSmzD8xASRlYq2OLmCrg",
+                "title": "[뮤직 어게인 풍류대장] &quot;美친 사람 같아요&quot; 성시경이 심한 말 하게 만드는💦 국악계 아이돌 &#39;김준수&#39;",
+                "description": "[뮤직 어게인 풍류대장] \"美친 사람 같아요\" 성시경이 심한 말 하게 만드는   국악계 아이돌 '김준수' #풍류대장 #풍류대장김준수 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r9Qh8QTunDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r9Qh8QTunDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r9Qh8QTunDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JTBC Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-07T09:25:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MfLrzoXtIohUWIIucmGz1M_nBWI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Htssat2cd3w"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-21T11:44:36Z",
+                "channelId": "UC5RKeYy6_UViWigs89cks6g",
+                "title": "10시간⏰잔잔한 가야금 연주 10시간 연속듣기🌈⎮ 중간광고없음 ⎮ 집중 공부 힐링 휴식 감성 명상 태교음악 1시간 5시간 10Hours korea gayageum Play",
+                "description": "집중 #공부 #휴식 #명상 #태교 #수면 #gayageum #gayageumcover #가야금연주 #가야금 #커버 가야금연주 - 서예지 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Htssat2cd3w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Htssat2cd3w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Htssat2cd3w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YEJIgayageum_가야금예지",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-21T11:44:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CV5lJiEu8mlAWeiLMHzZmk6EXi8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EQfaYPOWSRg"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-31T12:43:47Z",
+                "channelId": "UCC6fYTZ9AIkqNy6zYEHVwow",
+                "title": "애니메이션 OST 국악버전 모음 (Animation OST Orchestra Ver) / 공부할 때 듣는 동양풍 음악",
+                "description": "올 한해 자작곡이나 커버곡을 좋아해주신 분들께 감사드립니다 새해 복 많이 받으세요! I thank you all for those who like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EQfaYPOWSRg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EQfaYPOWSRg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EQfaYPOWSRg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Flow Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-31T12:43:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aEA36S0jMkJ_Sn0_fctQCYrpBxY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_ojL3Zlur4w"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-12T11:04:34Z",
+                "channelId": "UC6jh6fov4G5Pb8Pgy1DJDEA",
+                "title": "【My Singer】 세상에서 제일 힙한 국악💙 &#39;조선팝&#39;의 창시자 서도밴드 노래 모음.zip ♬ #DJ티비씨｜풍류대장",
+                "description": "playlist --------- 00:00 - 뱃노래 03:42 - 사랑가 07:13 - 희망의 아리랑 11:25 - 매일 매일 기다려 #마이싱어 #서도밴드 #풍류 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ojL3Zlur4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ojL3Zlur4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ojL3Zlur4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DJ티비씨",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-12T11:04:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-fTjcTURn1ofOk99zkU0FbQ1-ZY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "etzCi6v4dhw"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-11T17:18:59Z",
+                "channelId": "UCLTDHtEfUK7eC0OXBjn_8JQ",
+                "title": "한국인이 사랑하는 물소리 국악 명상음악 연속듣기 (Korean traditional music meditation music)",
+                "description": "ASMR #국악명상 #명상음악 #불면증음악 #수면유도음악 #기치료 #보이스퀸 #고나겸 #천상의가인 #사랑의마일리지#나만의사랑 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/etzCi6v4dhw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/etzCi6v4dhw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/etzCi6v4dhw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "보이스퀸 고나겸",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-11T17:18:59Z"
+            }
+        }
+    ]
+}

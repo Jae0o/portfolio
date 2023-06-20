@@ -1,0 +1,27 @@
+:root {
+  --color-semi-white: #F9F5F0;
+  --color-orange: #F4991A;
+  --color-brown: #321313;
+}
+
+
+
+.MainBox {
+  border: 5px solid var(--color-brown);
+  width: 2000px;
+  height: 700px;
+  margin: 5px;
+  background-color: var(--color-semi-white);
+  border-radius: 20px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.CutLine {
+  height: 95%;
+  width: 5px;
+  background-color: var(--color-brown);
+  border-radius: 10px;
+}

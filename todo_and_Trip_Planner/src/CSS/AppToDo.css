@@ -1,0 +1,195 @@
+:root {
+    /* border radius */
+    --border-radius-large: 30px;
+    --border-radius-normal: 15px;
+    --border-radius-samll: 5px;
+
+    /* Color */
+    --Color-Green-Deep: #40513B;
+    --Color-Green-nature: #609966;
+    --Color-Green-semi: #9DC08B;
+    --Color-white-semi: #EDF1D6;
+}
+
+html.dark {
+    --Color-Green-Deep: #9DC08B;
+    --Color-Green-nature: #609966;
+    --Color-Green-semi: #9DC08B;
+    --Color-white-semi: #40513B;
+}
+
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+/* ------------------------------------------ */
+
+.AppToDo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--Color-white-semi);
+    box-shadow: 5px 6px 7px 1px rgba(0, 0, 0, 0.53);
+    -webkit-box-shadow: 5px 6px 7px 1px rgba(0, 0, 0, 0.53);
+    -moz-box-shadow: 5px 6px 7px 1px rgba(0, 0, 0, 0.53);
+}
+
+/* ------------------ header ---------------- */
+
+header {
+    margin-top: 10px;
+}
+
+.ButtonMenu {
+    width: 380px;
+    height: 40px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--Color-Green-Deep);
+    border-radius: var(--border-radius-large);
+}
+
+.ButtonMenu>li {
+    width: fit-content;
+}
+
+.HeaderButton {
+    border-style: none;
+    width: 100px;
+    height: 32px;
+    background-color: var(--Color-Green-Deep);
+    color: var(--Color-white-semi);
+    font-size: medium;
+    font-weight: bolder;
+    margin: 0 10px;
+    border-radius: var(--border-radius-samll);
+}
+
+.HeaderButton:hover {
+    border-bottom: #609966 3px solid;
+    border-radius: 0px;
+}
+
+.selected {
+    border-bottom: #609966 3px solid;
+    border-radius: 0px;
+}
+
+.MainBox {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ListBox {
+    width: 380px;
+    height: 260px;
+    border-top: var(--Color-Green-Deep) solid 3px;
+    border-bottom: var(--Color-Green-Deep) solid 3px;
+    overflow-y: auto;
+}
+
+.List {
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.List>label {
+    width: 240px;
+    font-weight: 600;
+    color: var(--Color-Green-Deep);
+    overflow-x: auto;
+
+}
+
+.InputBox {
+    display: flex;
+    align-items: center;
+}
+
+/* input[type='checkbox'] {
+    display: none;
+}
+
+input[type='checkbox']+.checkBox {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    border: 3px solid var(--Color-Green-Deep);
+    border-radius: var(--border-radius-samll);
+    position: relative;
+    margin-left: 20px;
+    margin-right: 30px;
+    bottom: 2px;
+}
+
+input[type='checkbox']:checked+.checkBox {
+    content: '\2714';
+    background-color: var(--Color-Green-nature);
+} */
+
+
+.TrashButton {
+    font-size: 20px;
+    color: var(--Color-Green-Deep);
+    background-color: var(--Color-white-semi);
+    border: 0px var(--Color-white-semi) solid;
+    padding: 0px;
+    margin-right: 30px;
+    transition-duration: 0.5s;
+}
+
+.TrashButton:hover {
+    transform: rotate(15deg);
+}
+
+.AddBox {
+    width: 100%;
+    height: 55px;
+    background-color: var(--Color-Green-Deep);
+    border-bottom-left-radius: var(--border-radius-large);
+    border-bottom-right-radius: var(--border-radius-large);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AddBox>input {
+    font-size: 15px;
+    padding: 0 10px;
+    font-size: 600;
+    width: 300px;
+    height: 35px;
+    margin-right: 5px;
+    background-color: var(--Color-white-semi);
+    border: var(--Color-Green-Deep) 0 solid;
+    border-radius: var(--border-radius-samll);
+    color: var(--Color-Green-Deep);
+}
+
+.AddBox>button {
+    width: 35px;
+    height: 35px;
+    padding: 0px;
+    padding-top: 4px;
+    font-size: 25px;
+    border-radius: var(--border-radius-samll);
+    border: 0px;
+    background-color: var(--Color-white-semi);
+    color: var(--Color-Green-Deep);
+}

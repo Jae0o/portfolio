@@ -1,0 +1,30 @@
+:root {
+  --color-semi-white: #F9F5F0;
+  --color-beige: #F2EAD3;
+  --color-orange: #F4991A;
+  --color-brown: #321313;
+}
+
+.MainBox {
+  width: 220px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Button {
+  width: 105px;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  background-color: var(--color-brown);
+  color: var(--color-orange);
+  font-weight: 600;
+  border: 3px solid var(--color-brown);
+}
+
+.Button:hover {
+  background-color: var(--color-beige);
+  color: var(--color-brown);
+}

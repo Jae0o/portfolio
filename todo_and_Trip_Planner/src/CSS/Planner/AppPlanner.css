@@ -1,0 +1,22 @@
+:root {
+  --color-semi-white: #F9F5F0;
+  --color-orange: #F4991A;
+  --color-brown: #321313;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+Body {
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding-left: 0px;
+}
