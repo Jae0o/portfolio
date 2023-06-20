@@ -1,0 +1,253 @@
+:root{
+    /* color */
+    --color-dark-mint: #b2d5ba;
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-white-semi-purple: #F8F8FF;
+    --color-white-purple: #ccccee;
+    --color-purple: #ccaaff;
+
+    /* font */
+    --font-large: 38px;
+    --font-medium: 28px;
+    --font-regular: 18px;
+    --font-small: 16px;
+    --font-micro: 14px;
+
+    /* font weight */
+    --weight-bold: 700;
+    --weight-semi-bold: 600;
+    --weight-regular: 400;
+
+    /* size */
+    --size-border-radius-regular: 4px;
+    --size-border-radius-medium: 8px;
+
+    /* border */
+    --size-border: 2px;
+
+    --margin-border: 0px 5px;
+
+    --padding-border: 2px;
+
+    /* animation */
+    --animation-duration: 300ms;
+
+    /* test border */
+    --test-border: red 1px solid;
+}
+/* universal tags */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    
+    background-color: var(--color-white-semi-purple);
+}
+
+a {
+    text-decoration: none;
+}
+
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+/* typogeaphy */
+h1 {
+    font-size: var(--font-large);
+    font-weight: var(--weight-bold);
+    color: var(--color-black);
+    margin: 16px 0px;
+}
+
+h2 {
+    font-size: var(--font-medium);
+    font-weight: var(--weight-semi-bold);
+    color: var(--color-black);
+    margin: 8px 0px;
+}
+
+h3 {
+    font-size: var(--font-regular);
+    font-weight: var(--font-regular);
+    color: var(--color-black);
+    margin: 8px 0px;
+}
+
+h4 {
+    font-size: var(--font-regular);
+    font-weight: var(--font-regular);
+    color: var(--color-black);
+    margin: 4px 0px;
+}
+
+/* nav */
+#section__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 5px 10px;
+    margin: 20px 20px;
+
+    background: var(--color-white-purple);
+
+    border: var(--size-border) var(--color-black) solid;
+    border-radius: var(--size-border-radius-medium);
+
+    top: 0px; left: 0px; right: 0px;
+    position: sticky;
+}
+
+.nav__logo {
+    display: flex;
+}
+
+.nav__logo__img {
+    width: 50px;
+    height: 50px;
+
+    background-color: var(--color-white);
+
+    border: var(--color-black) var(--size-border) solid;
+    border-radius: var(--size-border-radius-regular);
+}
+
+.nav__logo__title {
+    padding: 10px 10px 0px 10px;
+    font-size: var(--font-medium);
+    font-weight: var(--weight-bold);
+    color: #000000;
+}
+
+.nav__menu {
+    display: flex;
+    margin: 0px 5px;
+}
+
+.nav__menu__text {
+    padding: var(--padding-border);
+    margin: var(--margin-border);
+
+    color: var(--color-black);
+
+    cursor:pointer;
+
+    border: var(--size-border) var(--color-black) solid;
+    border-radius: var(--size-border-radius-regular);
+}
+
+.nav__menu__text:hover {
+    background-color : var(--color-purple);
+}
+
+/* home */
+.home {
+    display: run-in;
+
+    border: blue 2px solid;
+}
+
+
+
+.home__img {
+    width: 300px;
+    border-radius:50%;
+
+
+    border: red 1px solid;
+}
+
+.home__text {
+
+
+    border: red 1px solid;
+}
+
+.home__text__name {
+
+
+    border: blue 1px solid;
+}
+
+.home__text__major {
+
+
+    border: blue 1px solid;
+}
+
+.home__text__ment {
+
+
+    border: blue 1px solid;
+}
+
+
+
+
+
+/* footer */
+.contact {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+    padding: 4px;
+    margin: 20px 20px;
+
+    background-color: var(--color-white-purple);
+    border: var(--color-black) var(--size-border) solid;
+    border-radius: var(--size-border-radius-medium);
+}
+
+.contact__link {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0px;
+    margin:0px;
+}
+
+.contact__link__title {
+    padding : 0px 4px;
+    margin: 4px;
+}
+
+.contact__link__list {
+    display: flex;
+    flex-direction: row;
+
+    padding: 0px;
+    margin: 0px;
+}
+
+.contact__link__text{
+    color :var(--color-black);
+
+    padding: 2px 4px;
+    margin: 4px 5px;
+
+    border: var(--color-black) var(--size-border) solid;
+    border-radius: var(--size-border-radius-regular);
+
+}
+
+.contact__link__text :link {
+    color :var(--color-black);
+}
+
+.contact__link__text :visited {
+    color :var(--color-black);
+}
+
+.contact__link__text:hover {
+    background-color: var(--color-purple);
+}
