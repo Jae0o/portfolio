@@ -1,11 +1,13 @@
-import React from 'react'
-import { createBrowswerRouter } from 'react-router-dom';
-
+import React from 'react';
+import Navbar from './Components/Navbar';
+import { Outlet } from 'react-router-dom';
 
 export default function App() {
-  return (
-    <div>
 
-    </div>
+  return (
+    <>
+      <Navbar />
+      <Outlet />
+    </>
   )
 }
