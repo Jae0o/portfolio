@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "q5JoR9BbrmlB9A1cRjqGKNcqauM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "yfe_l6i6qfPcvPB-dZZVcjLYJ3Y",
+            "id": "Y-KGwfsHAy4",
+            "snippet": {
+                "publishedAt": "2023-04-21T10:36:03Z",
+                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA",
+                "title": "귀신을 믿지 않는 과학자들도 놀란 충격받은 사건들 ㄷㄷ",
+                "description": "오늘은 정영진님과 서균렬 교수님, 김범준 교수님 그리고 우주먼지님을 모시고 과학자들도 놀란 사건들에 대한 이야기를 나눠봤습니다.\n\n\n\n\n00:00 오프닝\n00:42 과학자들의 직업병\n06:18 달에서 발견된 엄청난 물\n09:28 귀신병이 떠도는 마을\n13:38 제임스 웹이 촬영한 놀라운 우주\n17:44 하룻밤 사이에 깨달은 양자역학\n\n\n\nBODA 보다에 출연을 원하신다면 요기를 눌러주세요\nhttps://forms.gle/1XKVXfBrALz1GHEH8\n\n궁금하신 부분들을 댓글에 달아주세요! 저희가 확인하겠습니다!\n\n감사합니다!\n\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\nBODA 인스타 : https://www.instagram.com/boda_channel/\n\n#보다 #우주 #핵 #과학",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "보다 BODA",
+                "tags": [
+                    "보다",
+                    "boda",
+                    "직업",
+                    "인터뷰",
+                    "전문가",
+                    "레전드"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "귀신을 믿지 않는 과학자들도 놀란 충격받은 사건들 ㄷㄷ",
+                    "description": "오늘은 정영진님과 서균렬 교수님, 김범준 교수님 그리고 우주먼지님을 모시고 과학자들도 놀란 사건들에 대한 이야기를 나눠봤습니다.\n\n\n\n\n00:00 오프닝\n00:42 과학자들의 직업병\n06:18 달에서 발견된 엄청난 물\n09:28 귀신병이 떠도는 마을\n13:38 제임스 웹이 촬영한 놀라운 우주\n17:44 하룻밤 사이에 깨달은 양자역학\n\n\n\nBODA 보다에 출연을 원하신다면 요기를 눌러주세요\nhttps://forms.gle/1XKVXfBrALz1GHEH8\n\n궁금하신 부분들을 댓글에 달아주세요! 저희가 확인하겠습니다!\n\n감사합니다!\n\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\nBODA 인스타 : https://www.instagram.com/boda_channel/\n\n#보다 #우주 #핵 #과학"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT23M53S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "904336",
+                "likeCount": "14434",
+                "favoriteCount": "0",
+                "commentCount": "925"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

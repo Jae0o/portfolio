@@ -13,7 +13,7 @@ export default function Navbar() {
   const OnChange = (e) => { setText(e) };
   const OnSubmit = (e) => {
     e.preventDefault();
-    Navigate(`/Videos/${Text}`)
+    Navigate(`/videos/${Text}`)
     setText("");
   };
 
@@ -30,7 +30,7 @@ export default function Navbar() {
           className={styles.nav_form_input}
           type='text'
           placeholder='Search...'
-          onChange={(e) => OnChange(e.target.value)}
+          onChange={(e) => OnChange(e.target.value.trim())}
           value={Text} />
         <button className={styles.nav_form_button}> <BsSearch /></button>
       </form>

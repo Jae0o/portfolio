@@ -5,9 +5,10 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 // router
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Videos from './Components/videos/Videos';
+import VideosHot from './Components/videos/VideosHot';
 import Watch from './Components/Pages/Watch';
 import NotFound from './Components/Pages/NotFound';
+import VideosSearch from './Components/videos/VideosSearch';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -19,14 +20,14 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <Videos />
+        element: <VideosHot />
       },
       {
-        path: '/Videos/:keyword',
-        element: <Videos />
+        path: '/videos/:keyword',
+        element: <VideosSearch />
       },
       {
-        path: '/Watch/:VideoID',
+        path: '/watch/:videoID',
         element: <Watch />
       }
     ]
