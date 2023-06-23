@@ -1,0 +1,54 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "iARFUNyBRmHsD4Vy8VBo4zUSqek",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "DbRK0tHifzi5P0IpKZgOSIPq8d8",
+      "id": "UCHt0dv0prDEVSJYMfbk4O0g",
+      "snippet": {
+        "title": "Nildo Barros",
+        "description": "",
+        "customUrl": "@nildobarros",
+        "publishedAt": "2007-04-25T18:38:30Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOp-iK4sE3dsRoH0KZDsgHxjAKCwcmxtKtcxQSvmA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOp-iK4sE3dsRoH0KZDsgHxjAKCwcmxtKtcxQSvmA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOp-iK4sE3dsRoH0KZDsgHxjAKCwcmxtKtcxQSvmA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nildo Barros",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUHt0dv0prDEVSJYMfbk4O0g"
+        }
+      },
+      "statistics": {
+        "viewCount": "3207551",
+        "subscriberCount": "4020",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2"
+      }
+    }
+  ]
+}

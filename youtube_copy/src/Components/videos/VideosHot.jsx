@@ -6,7 +6,7 @@ export default function VideosHot() {
   console.log(Key)
   return (
     <div>
-      현재 검색된 정보는 {Key.keyword}
+
     </div>
   )
 }

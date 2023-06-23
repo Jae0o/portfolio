@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "LSsht2qV3t8NDZtqQ-FMA96HFr8",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "TLfFMdpZCC0bGj5FgIy0WwhEU5w",
+      "id": "UCoCvTlU0KpNYwnMIgs7MPrA",
+      "snippet": {
+        "title": "보다 BODA",
+        "description": "누구나, 쉽게, 재밌게 볼 수 있는 영상\n\n광고 및 비즈니스 문의 : boooda.kr@gmail.com \n\n제작 : 어썸엔터테인먼트 (주)\n\n\n\n",
+        "customUrl": "@boda100",
+        "publishedAt": "2013-01-20T18:45:01Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "보다 BODA",
+          "description": "누구나, 쉽게, 재밌게 볼 수 있는 영상\n\n광고 및 비즈니스 문의 : boooda.kr@gmail.com \n\n제작 : 어썸엔터테인먼트 (주)\n\n\n\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUoCvTlU0KpNYwnMIgs7MPrA"
+        }
+      },
+      "statistics": {
+        "viewCount": "648771562",
+        "subscriberCount": "1260000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "885"
+      }
+    }
+  ]
+}

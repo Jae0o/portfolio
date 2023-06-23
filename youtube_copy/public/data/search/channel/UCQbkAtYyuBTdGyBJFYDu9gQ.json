@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "uuTGUPujs2YTHNELfVtePy-OnHU",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "uqmPZZwS2phy3X81C1ePCYh4P60",
+      "id": "UCQbkAtYyuBTdGyBJFYDu9gQ",
+      "snippet": {
+        "title": "J - HAINE",
+        "description": "Artiste rappeur ivoirien \n\nAbonne toi à mes différents réseaux sociaux pour suivre mes actualités 👇🏾\n\nInstagram: J.haine_  ( https://www.instagram.com/p/CL2JL5Zp6f1/?igshid=1q7gvuosr0ng2 ) \nFacebook: J-Haine ( https://www.facebook.com/jinokinte )\nTwitter: J_haiine ( https://twitter.com/j_haiine/status/1388954068375248899?s=21)",
+        "customUrl": "@j-haine902",
+        "publishedAt": "2016-05-06T08:39:39Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/V2DvB_J9GPrt6SWqxTOj0IMyRwJTW24lnAu2XlVYJPQ-JQpdnis6L900oqQgIukVS8n_goCrS7g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/V2DvB_J9GPrt6SWqxTOj0IMyRwJTW24lnAu2XlVYJPQ-JQpdnis6L900oqQgIukVS8n_goCrS7g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/V2DvB_J9GPrt6SWqxTOj0IMyRwJTW24lnAu2XlVYJPQ-JQpdnis6L900oqQgIukVS8n_goCrS7g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "J - HAINE",
+          "description": "Artiste rappeur ivoirien \n\nAbonne toi à mes différents réseaux sociaux pour suivre mes actualités 👇🏾\n\nInstagram: J.haine_  ( https://www.instagram.com/p/CL2JL5Zp6f1/?igshid=1q7gvuosr0ng2 ) \nFacebook: J-Haine ( https://www.facebook.com/jinokinte )\nTwitter: J_haiine ( https://twitter.com/j_haiine/status/1388954068375248899?s=21)"
+        },
+        "country": "FR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUQbkAtYyuBTdGyBJFYDu9gQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "3678040",
+        "subscriberCount": "49000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "43"
+      }
+    }
+  ]
+}

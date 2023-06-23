@@ -1,0 +1,346 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "_7wLFUESLJV6QOpV60kjircCwYQ",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lUW_7qGeEoqvUkZTLSJ2twIqS2A",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA"
+            },
+            "snippet": {
+                "publishedAt": "2013-01-20T18:45:01Z",
+                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA",
+                "title": "보다 BODA",
+                "description": "누구나, 쉽게, 재밌게 볼 수 있는 영상 광고 및 비즈니스 문의 : boooda.kr@gmail.com 제작 : 어썸엔터테인먼트 (주)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "보다 BODA",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2013-01-20T18:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IPUgrWZ6lyhaix47vbF_eL9Gbyw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y-KGwfsHAy4"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-21T10:36:03Z",
+                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA",
+                "title": "귀신을 믿지 않는 과학자들도 놀란 충격받은 사건들 ㄷㄷ",
+                "description": "오늘은 정영진님과 서균렬 교수님, 김범준 교수님 그리고 우주먼지님을 모시고 과학자들도 놀란 사건들에 대한 이야기를 나눠 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y-KGwfsHAy4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "보다 BODA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-21T10:36:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fvEy47KciS0a13Dts5qHYYF15sg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XFRfrPkfghY"
+            },
+            "snippet": {
+                "publishedAt": "2009-07-22T23:52:00Z",
+                "channelId": "UCX_gHEqsNCpJl-DWf5EN2Ww",
+                "title": "Aventura - La Boda",
+                "description": "The official music video for La Boda. El vídeo musical de La Boda. Subscribe/Suscríbete: http://radi.al/AventuraSubscribe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XFRfrPkfghY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XFRfrPkfghY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XFRfrPkfghY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aventura",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-07-22T23:52:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HCQXhEjLRc0qlEPuuLfC8sRA_DI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oiGCL2Ld534"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-27T02:35:37Z",
+                "channelId": "UCFWWSqETvq7q-Y3SBmduuTQ",
+                "title": "Cosculluela - La Boda (Video Oficial)",
+                "description": "Cosculluela - La Boda (Video Oficial) #Cosculluela #LaBoda #BlancoPerla ℗ 2016 Rottweilas, Inc., bajo licencia exclusiva a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oiGCL2Ld534/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oiGCL2Ld534/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oiGCL2Ld534/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cosculluela El Principe",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-02-27T02:35:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "amXtzMMdPZB1ZhlNmoOCHoG_bTk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ozJ7Edk4s9w"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-21T16:00:04Z",
+                "channelId": "UCX_gHEqsNCpJl-DWf5EN2Ww",
+                "title": "Aventura - La Boda",
+                "description": "Audio oficial de \"La Boda\" por Aventura de su álbum God's Project (2005) Compra: http://radi.al/AventuraGP Suscríbete: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ozJ7Edk4s9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ozJ7Edk4s9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ozJ7Edk4s9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aventura",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-06-21T16:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s3JzKzLUV0ggPb0cSA3gI0MaCS0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XlF2FpmHIM8"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-03T02:00:10Z",
+                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA",
+                "title": "과학자들이 걱정하는 인공지능이 진짜 무서운 이유 (통제를 벗어나는 순간..) ㅣ 과학을 보다",
+                "description": "오늘은 정영진님과 서균렬 교수님, 김범준 교수님 그리고 우주먼지님을 모시고, 이미 현실화된 SF 기술들과 절대로 불가능한 SF 기술 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "보다 BODA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-03T02:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ksWhyq5RoFW20AK6Z1KYE-QTa7w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3hOkMy6i78Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-30T19:32:50Z",
+                "channelId": "UCQbkAtYyuBTdGyBJFYDu9gQ",
+                "title": "J-HAINE - BODA Feat FIOR2BIOR &amp; FIREMAN ( 🔞 )",
+                "description": "J-Haine - BODA Mixtape ECHANTILLON Auteurs : J_Haine , Fior 2 Bior , Fireman Prod by MAD MICH Mix & Master by FAROCH ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3hOkMy6i78Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3hOkMy6i78Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3hOkMy6i78Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "J - HAINE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-30T19:32:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "asbKfsH08M9MxJHKWz4I2kiERQw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kZhI7qYdVs4"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-22T16:19:41Z",
+                "channelId": "UCn0QZN67ND6xJVAx6Ysuo4Q",
+                "title": "The Nitrox - Boda",
+                "description": "The Nitrox - Boda.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Nitrox",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-22T16:19:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kVZEy1kp-GeCLa60VUz44quCTAY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JcwjKoNKnVI"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-20T18:53:46Z",
+                "channelId": "UCkXmzSgA7tTUFf-DJ4JBSFQ",
+                "title": "IXHUATLÁN DE MADERO VERACRUZ &quot;El LIMON &quot;  NUESTRA BODA  SANDRA Y GUSTAVO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JcwjKoNKnVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JcwjKoNKnVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JcwjKoNKnVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PRODUCCIONES MASTER FOTOGRAFÍA Y VIDEO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-20T18:53:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0u8T_djNZ_LEFeqnmktb80AP0dM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CsX_0WNrZRs"
+            },
+            "snippet": {
+                "publishedAt": "2011-04-21T18:14:58Z",
+                "channelId": "UCHt0dv0prDEVSJYMfbk4O0g",
+                "title": "Paulo flores-Boda [2011]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CsX_0WNrZRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CsX_0WNrZRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CsX_0WNrZRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nildo Barros",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-04-21T18:14:58Z"
+            }
+        }
+    ]
+}

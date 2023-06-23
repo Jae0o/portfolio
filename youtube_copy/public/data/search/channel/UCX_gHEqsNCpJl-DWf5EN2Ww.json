@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "V2oAG_ZkUr8pzPu9jJSgChLvotM",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "uarhVQCHvxL7r17vP90ImFRxVg8",
+      "id": "UCX_gHEqsNCpJl-DWf5EN2Ww",
+      "snippet": {
+        "title": "Aventura",
+        "description": "The official channel for your favorite bachata band, Aventura. \n\nSubscribe here to watch original videos, live performances, and official music videos featuring Anthony “Romeo” Santos, Henry Santos, Lenny Santos, and Max Santos.",
+        "customUrl": "@aventura",
+        "publishedAt": "2006-01-06T01:09:24Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0gHJLi_gvGvl7bRfgqGYmcfF5DqJ6Z8YPze9dWlb-WZcJ-Zu_Nv1ynL5Nk6kgT9oHBVUNzN6GQ=s88-c-k-c0x00ffffff-no-nd-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0gHJLi_gvGvl7bRfgqGYmcfF5DqJ6Z8YPze9dWlb-WZcJ-Zu_Nv1ynL5Nk6kgT9oHBVUNzN6GQ=s240-c-k-c0x00ffffff-no-nd-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0gHJLi_gvGvl7bRfgqGYmcfF5DqJ6Z8YPze9dWlb-WZcJ-Zu_Nv1ynL5Nk6kgT9oHBVUNzN6GQ=s800-c-k-c0x00ffffff-no-nd-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Aventura",
+          "description": "The official channel for your favorite bachata band, Aventura. \n\nSubscribe here to watch original videos, live performances, and official music videos featuring Anthony “Romeo” Santos, Henry Santos, Lenny Santos, and Max Santos."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUX_gHEqsNCpJl-DWf5EN2Ww"
+        }
+      },
+      "statistics": {
+        "viewCount": "7444284749",
+        "subscriberCount": "6510000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "104"
+      }
+    }
+  ]
+}

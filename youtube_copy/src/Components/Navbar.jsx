@@ -11,10 +11,14 @@ export default function Navbar() {
   const Navigate = useNavigate();
 
   const OnChange = (e) => { setText(e) };
+
   const OnSubmit = (e) => {
     e.preventDefault();
-    Navigate(`/videos/${Text}`)
-    setText("");
+    if (Text.trim().length === 0) {
+      return
+    } else {
+      Navigate(`/videos/${Text}`)
+    }
   };
 
   useEffect(() => { setText(keyword || "") }, [keyword])

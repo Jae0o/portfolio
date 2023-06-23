@@ -1,0 +1,84 @@
+.cardBox {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-bottom: 1px black solid;
+  border-top: 1px black solid;
+}
+
+.channelCard {
+  display: flex;
+  width: 90%;
+}
+
+.channelCard_imgBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: 170px;
+}
+
+.channelCard_imgBox_logo {
+  width: 140px;
+  height: 140px;
+}
+
+.channelCard_textBox {
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+}
+
+.channelCard_textBox_title {
+  margin: 0px;
+}
+
+.channelCard_textBox_subtitle {
+  display: flex;
+  padding: 10px 0px 5px 0px;
+}
+
+.channelCard_textBox_subtitle_text {
+  font-size: small;
+  margin: 0px;
+}
+
+.channelCard_textBox_des {
+  font-size: small;
+  margin: 0px;
+}
+
+
+
+
+.channelCard_btBox {
+  width: 10%;
+}
+
+.channelCard_btBox_bt {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 20px;
+  background-color: gray;
+  color: white;
+}
+
+.BsBell {
+  margin: 0px;
+  margin-right: 5px;
+}
+
+.Arrow {
+  margin: 0px;
+  margin-left: 5px;
+}
