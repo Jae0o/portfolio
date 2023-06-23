@@ -1,0 +1,105 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "NFPvUB_u3laFaXdyqAYplyGklKg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "mHpO_V2o1OpDBk7xYCf-2zk2nZM",
+      "id": "XFRfrPkfghY",
+      "snippet": {
+        "publishedAt": "2009-07-22T23:52:00Z",
+        "channelId": "UCX_gHEqsNCpJl-DWf5EN2Ww",
+        "title": "Aventura - La Boda",
+        "description": "The official music video for La Boda. El vídeo musical de La Boda.\nSubscribe/Suscríbete: http://radi.al/AventuraSubscribe\n\n#MaxSantos #Aventura #Bachata #LaBoda\n\nDownload/Descarga La Boda: http://radi.al/AventuraLoveAndHate\n\nFollow/Siguenos:\nFacebook: https://www.facebook.com/Aventura\nInstagram: http://instagram.com/thekingsaventura\nMyspace: https://myspace.com/kobkingsofbachata/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XFRfrPkfghY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XFRfrPkfghY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XFRfrPkfghY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XFRfrPkfghY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XFRfrPkfghY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aventura",
+        "tags": [
+          "aventura",
+          "the",
+          "last",
+          "boda",
+          "dominicana",
+          "new",
+          "york",
+          "bachata",
+          "su",
+          "veneno",
+          "all",
+          "up",
+          "to",
+          "you",
+          "akon",
+          "dominicano",
+          "cuando",
+          "volveras",
+          "wisin",
+          "yandel",
+          "Adventura",
+          "Aventera",
+          "Anthony Santos",
+          "Romeo",
+          "Anthony Romeo Santos",
+          "Henry Santos",
+          "Lenny Santos",
+          "Max Santos",
+          "Dominican Blues",
+          "Obsesion",
+          "God's Project",
+          "We Broke The Rules",
+          "Sony BMG"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Aventura - La Boda",
+          "description": "The official music video for La Boda. El vídeo musical de La Boda.\nSubscribe/Suscríbete: http://radi.al/AventuraSubscribe\n\n#MaxSantos #Aventura #Bachata #LaBoda\n\nDownload/Descarga La Boda: http://radi.al/AventuraLoveAndHate\n\nFollow/Siguenos:\nFacebook: https://www.facebook.com/Aventura\nInstagram: http://instagram.com/thekingsaventura\nMyspace: https://myspace.com/kobkingsofbachata/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M22S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "420633454",
+        "likeCount": "1089824",
+        "favoriteCount": "0",
+        "commentCount": "24595"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

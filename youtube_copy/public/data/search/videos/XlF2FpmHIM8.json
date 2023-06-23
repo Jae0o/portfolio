@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "IJBuqY02XlLlBDiyEMpoZf-VmZE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "J7Ba2_P50HmW0zThzDb7PtIDQ7o",
+      "id": "XlF2FpmHIM8",
+      "snippet": {
+        "publishedAt": "2023-06-03T02:00:10Z",
+        "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA",
+        "title": "과학자들이 걱정하는 인공지능이 진짜 무서운 이유 (통제를 벗어나는 순간..) ㅣ 과학을 보다",
+        "description": "오늘은 정영진님과 서균렬 교수님, 김범준 교수님 그리고 우주먼지님을 모시고,\n이미 현실화된 SF 기술들과 절대로 불가능한 SF 기술들에 대해 이야기를 나눠봤습니다.\n\n\n\n00:00 오프닝\n00:40 과학자들의 치명적인 실수들\n04:51 영화가 신경 쓰이는 과학자들\n10:40 공간이동은 정말 불가능할까?\n17:48 공상과학이 현실화된 것들\n22:44 아이언맨 슈트가 실제로 가능할까?\n24:50 절대로 불가능한 SF 기술들\n32:01 과학자들이 가장 걱정하는 기술\n\n\n\nBODA 보다에 출연을 원하신다면 요기를 눌러주세요\nhttps://forms.gle/1XKVXfBrALz1GHEH8\n\n궁금하신 부분들을 댓글에 달아주세요! 저희가 확인하겠습니다!\n\n감사합니다!\n\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\nBODA 인스타 : https://www.instagram.com/boda_channel/\n\n#보다 #우주 #핵 #과학 #SF",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XlF2FpmHIM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "보다 BODA",
+        "tags": [
+          "보다",
+          "boda",
+          "직업",
+          "인터뷰",
+          "전문가",
+          "레전드"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "과학자들이 걱정하는 인공지능이 진짜 무서운 이유 (통제를 벗어나는 순간..) ㅣ 과학을 보다",
+          "description": "오늘은 정영진님과 서균렬 교수님, 김범준 교수님 그리고 우주먼지님을 모시고,\n이미 현실화된 SF 기술들과 절대로 불가능한 SF 기술들에 대해 이야기를 나눠봤습니다.\n\n\n\n00:00 오프닝\n00:40 과학자들의 치명적인 실수들\n04:51 영화가 신경 쓰이는 과학자들\n10:40 공간이동은 정말 불가능할까?\n17:48 공상과학이 현실화된 것들\n22:44 아이언맨 슈트가 실제로 가능할까?\n24:50 절대로 불가능한 SF 기술들\n32:01 과학자들이 가장 걱정하는 기술\n\n\n\nBODA 보다에 출연을 원하신다면 요기를 눌러주세요\nhttps://forms.gle/1XKVXfBrALz1GHEH8\n\n궁금하신 부분들을 댓글에 달아주세요! 저희가 확인하겠습니다!\n\n감사합니다!\n\n출연 및 제휴 문의 : boooda.kr@gmail.com\n\nBODA 인스타 : https://www.instagram.com/boda_channel/\n\n#보다 #우주 #핵 #과학 #SF"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT38M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "676583",
+        "likeCount": "11297",
+        "favoriteCount": "0",
+        "commentCount": "1119"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

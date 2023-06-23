@@ -21,12 +21,14 @@ export default function Navbar() {
     }
   };
 
+  const logoUrl = 'Logo/yt_logo_rgb_light.png';
+
   useEffect(() => { setText(keyword || "") }, [keyword])
 
   return (
     <nav className={styles.nav_box}>
       <Link to='/' className={styles.nav_logo}>
-        <img className={styles.nav_logo_img} src='Logo/yt_logo_rgb_light.png' alt='Nav_Logo' />
+        <img className={styles.nav_logo_img} src={logoUrl} alt='Nav_Logo' />
       </Link>
 
       <form onSubmit={OnSubmit} className={styles.nav_form}>

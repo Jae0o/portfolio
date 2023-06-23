@@ -1,0 +1,59 @@
+.cardBox {
+  margin-top: 15px;
+  width: 90%;
+  display: flex;
+}
+
+.videoCard_imgBox {
+  border-radius: 7px;
+  margin-right: 10px;
+}
+
+.videoCard_imgBox_thumbnail {
+  border-radius: 7px;
+}
+
+.videoCard_textBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: black;
+}
+
+.videoCard_textBox_title {
+  margin: 0px;
+}
+
+.videoCard_textBox_subTitle {
+  display: flex;
+  font-size: small;
+  margin-top: 2px;
+}
+
+.videoCard_textBox_subTitle_viewCount,
+.videoCard_textBox_subTitle_time {
+  margin: 0px 5px 0px 0px;
+}
+
+.videoCard_textBox_channelInfo {
+  display: flex;
+  align-items: center;
+  height: 56px;
+}
+
+.videoCard_textBox_channelInfo_logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+  border-radius: 100%;
+}
+
+.videoCard_textBox_channelInfo_title {
+  font-size: small;
+}
+
+.videoCard_textBox_des {
+  font-size: 13px;
+  height: 16px;
+  overflow: auto;
+}

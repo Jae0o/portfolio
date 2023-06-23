@@ -1,0 +1,83 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "i-SboolPy323_DFIlAmQBZpsvgY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "JXrJh-_G-HN-JhyfOqVBOARTrvE",
+      "id": "oiGCL2Ld534",
+      "snippet": {
+        "publishedAt": "2016-02-27T02:35:37Z",
+        "channelId": "UCFWWSqETvq7q-Y3SBmduuTQ",
+        "title": "Cosculluela - La Boda (Video Oficial)",
+        "description": "Cosculluela - La Boda (Video Oficial)\n#Cosculluela #LaBoda #BlancoPerla\n\n℗ 2016 Rottweilas, Inc., bajo licencia exclusiva a ONErpm\n\nSuscríbete a mi canal: 👉 https://bit.ly/CosculluelaOficial\n🎧 Escucha toda mi música en tu plataforma favorita: ONErpm.lnk.to/_Cosculluela\n\nSígueme en: \nInstagram: http://www.Instagram.com/Cosculluela\nFacebook: https://www.facebook.com/RottWorld/\nTwitter: http://www.Twitter.com/Coscuelprincipe\nTik Tok: https://www.tiktok.com/@cosculluelaoficial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oiGCL2Ld534/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oiGCL2Ld534/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oiGCL2Ld534/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oiGCL2Ld534/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oiGCL2Ld534/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cosculluela El Principe",
+        "tags": [
+          "cosculluela",
+          "cosculluela la boda",
+          "coscu",
+          "la boda",
+          "Cosculluela - La Boda",
+          "La Boda - Cosculluela",
+          "dime a ver",
+          "probando voces",
+          "k0X8_JnxyHc",
+          "L96QwHJeW5A"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cosculluela - La Boda (Video Oficial)",
+          "description": "Cosculluela - La Boda (Video Oficial)\n#Cosculluela #LaBoda #BlancoPerla\n\n℗ 2016 Rottweilas, Inc., bajo licencia exclusiva a ONErpm\n\nSuscríbete a mi canal: 👉 https://bit.ly/CosculluelaOficial\n🎧 Escucha toda mi música en tu plataforma favorita: ONErpm.lnk.to/_Cosculluela\n\nSígueme en: \nInstagram: http://www.Instagram.com/Cosculluela\nFacebook: https://www.facebook.com/RottWorld/\nTwitter: http://www.Twitter.com/Coscuelprincipe\nTik Tok: https://www.tiktok.com/@cosculluelaoficial"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT5M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "610502320",
+        "likeCount": "2875564",
+        "favoriteCount": "0",
+        "commentCount": "41923"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

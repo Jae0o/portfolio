@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom';
 import ChannelCard from './ChannelCard';
-import styles from '../../CSS/VideosSearch.module.css'
+import styles from '../../../CSS/VideosSearch.module.css'
+import VideoCard from './VideoCard';
 
 export default function VideosSearch() {
 
@@ -15,7 +16,6 @@ export default function VideosSearch() {
       .then((JSON) => setItems([...JSON.items]))
   }, [keyword])
 
-
   return (
     <section className={styles.outletBox}>
       {
@@ -28,8 +28,11 @@ export default function VideosSearch() {
       {
         Items.filter(item => item.id.kind === 'youtube#video').map(
           (item, index) => (
-            <p key={index}>{item.snippet.channelTitle
-            }</p>
+            <VideoCard
+              videoCode={item?.id.videoId}
+              channelCode={item?.snippet.channelId}
+              description={item?.snippet.description}
+              key={index} />
           )
         )
       }

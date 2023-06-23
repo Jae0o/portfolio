@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "hRRH_hwOQDUzmjlLO18cKs_xCEY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "1jFkIojAekvOJLaT36xZ4Lg4ipY",
+      "id": "CsX_0WNrZRs",
+      "snippet": {
+        "publishedAt": "2011-04-21T18:14:58Z",
+        "channelId": "UCHt0dv0prDEVSJYMfbk4O0g",
+        "title": "Paulo flores-Boda [2011]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CsX_0WNrZRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CsX_0WNrZRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CsX_0WNrZRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nildo Barros",
+        "tags": [
+          "Semba"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Paulo flores-Boda [2011]",
+          "description": ""
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT4M34S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3097177",
+        "likeCount": "7866",
+        "favoriteCount": "0",
+        "commentCount": "365"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

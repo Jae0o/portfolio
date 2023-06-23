@@ -1,0 +1,75 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "gt5eieX_TBaFMWDjSa43WF0gFGk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "__1RT6oFEXiJ2PSuUwo8-PyXd4w",
+      "id": "kZhI7qYdVs4",
+      "snippet": {
+        "publishedAt": "2022-04-22T16:19:41Z",
+        "channelId": "UCn0QZN67ND6xJVAx6Ysuo4Q",
+        "title": "The Nitrox - Boda",
+        "description": "The Nitrox - Boda",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kZhI7qYdVs4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Nitrox",
+        "tags": [
+          "abacuos",
+          "The Nitrox - Boda"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Nitrox - Boda",
+          "description": "The Nitrox - Boda"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8479",
+        "likeCount": "86",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

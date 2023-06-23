@@ -8,7 +8,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import VideosHot from './Components/videos/VideosHot';
 import Watch from './Components/Pages/Watch';
 import NotFound from './Components/Pages/NotFound';
-import VideosSearch from './Components/videos/VideosSearch';
+import VideosSearch from './Components/Pages/search/VideosSearch';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 

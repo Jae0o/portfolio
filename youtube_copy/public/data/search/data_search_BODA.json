@@ -140,40 +140,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "amXtzMMdPZB1ZhlNmoOCHoG_bTk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ozJ7Edk4s9w"
-            },
-            "snippet": {
-                "publishedAt": "2016-06-21T16:00:04Z",
-                "channelId": "UCX_gHEqsNCpJl-DWf5EN2Ww",
-                "title": "Aventura - La Boda",
-                "description": "Audio oficial de \"La Boda\" por Aventura de su álbum God's Project (2005) Compra: http://radi.al/AventuraGP Suscríbete: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ozJ7Edk4s9w/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ozJ7Edk4s9w/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ozJ7Edk4s9w/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aventura",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-06-21T16:00:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "s3JzKzLUV0ggPb0cSA3gI0MaCS0",
             "id": {
                 "kind": "youtube#video",

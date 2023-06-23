@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import styles from '../../CSS/ChannelCard.module.css';
+import styles from '../../../CSS/ChannelCard.module.css';
 import { Link } from 'react-router-dom';
 import { BsBell } from 'react-icons/bs';
 import { MdKeyboardArrowDown } from 'react-icons/md'
@@ -18,8 +18,6 @@ export default function Channel_card({ channelCode }) {
   const linkUrl = `/channel/${channelCode}`
 
   const { snippet, statistics } = Item
-
-  console.log(Item)
 
   return (
     <article className={styles.cardBox}>
