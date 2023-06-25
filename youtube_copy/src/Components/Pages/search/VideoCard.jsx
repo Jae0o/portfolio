@@ -7,17 +7,19 @@ export default function VideoCard({ videoCode, channelCode, description }) {
   const [VideoItems, setVideoItems] = useState();
   const [ChannelItems, setChannelItems] = useState();
 
+
+  //  Use Mock Data
   useEffect(() => {
     fetch(`/data/search/videos/${videoCode}.json`)
       .then((data) => data.json())
       .then((JSON) => setVideoItems(...JSON.items))
-  }, []);
+  }, [videoCode]);
 
   useEffect(() => {
     fetch(`/data/search/channel/${channelCode}.json`)
       .then((data) => data.json())
       .then((JSON) => setChannelItems(...JSON.items))
-  }, [])
+  }, [channelCode])
 
   const linkUrl = `/watch/${videoCode}`;
 

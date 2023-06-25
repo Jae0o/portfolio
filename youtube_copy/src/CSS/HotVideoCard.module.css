@@ -1,0 +1,54 @@
+.HotVideoCard {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  color: black;
+  height: 300px;
+
+  margin: 20px;
+
+}
+
+.HotVideoCard_videoThumbnail {
+  border-radius: 7px;
+  width: 320px;
+  height: 180px;
+}
+
+.HotVideoCard_bottom {
+  display: flex;
+
+  width: 320px;
+
+}
+
+.HotVideoCard_channelLogo {
+  border-radius: 100%;
+  width: 45px;
+  height: 45px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.HotVideoCard_textBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  margin-top: 10px;
+}
+
+.HotVideoCard_textBox_title {
+  margin: 0px;
+}
+
+.HotVideoCard_textBox_channelTitle {
+  margin: 0px;
+  margin-top: 5px;
+  font-size: small;
+}
+
+.HotVideoCard_textBox_viewTimeCount {
+  font-size: small;
+  margin: 0px;
+}

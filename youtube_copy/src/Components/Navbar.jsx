@@ -23,6 +23,7 @@ export default function Navbar() {
 
   const logoUrl = 'Logo/yt_logo_rgb_light.png';
 
+  // 뒤돌아 가기시 검색창 또한 이전의 검색 결과와 같게 만들어주기 위한 Effect
   useEffect(() => { setText(keyword || "") }, [keyword])
 
   return (

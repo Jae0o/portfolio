@@ -1,0 +1,14 @@
+.VideosHot_box {
+  width: 100%;
+
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.videoItemCard {
+  width: 33.3333%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}

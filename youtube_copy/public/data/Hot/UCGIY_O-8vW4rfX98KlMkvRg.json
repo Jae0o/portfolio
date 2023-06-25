@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "PFeQQXnQnJ2y0jSgF67xyykoL10",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "PiiDnXT9pdYJU0oUOoVjMdTWuDE",
+      "id": "UCGIY_O-8vW4rfX98KlMkvRg",
+      "snippet": {
+        "title": "Nintendo of America",
+        "description": "Welcome to the official Nintendo YouTube channel where you'll find all the latest videos, news and content from Nintendo including the Nintendo Switch family of systems.\n\nFor customer support, please visit https://en-americas-support.nintendo.com/",
+        "customUrl": "@nintendoamerica",
+        "publishedAt": "2005-12-27T13:18:56Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOvOm0B-pb88oiILgVKOLk7A67R25GkRNzJNTykmw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOvOm0B-pb88oiILgVKOLk7A67R25GkRNzJNTykmw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AGIKgqOvOm0B-pb88oiILgVKOLk7A67R25GkRNzJNTykmw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nintendo of America",
+          "description": "Welcome to the official Nintendo YouTube channel where you'll find all the latest videos, news and content from Nintendo including the Nintendo Switch family of systems.\n\nFor customer support, please visit https://en-americas-support.nintendo.com/"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUGIY_O-8vW4rfX98KlMkvRg"
+        }
+      },
+      "statistics": {
+        "viewCount": "3263694408",
+        "subscriberCount": "9070000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5637"
+      }
+    }
+  ]
+}

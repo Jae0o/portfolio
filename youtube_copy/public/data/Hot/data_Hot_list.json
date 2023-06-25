@@ -1,0 +1,419 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "dMT-MbDrJ2m-9Y92JiZJuB6Xy7M",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Tsjpttwml0Npt3XWe0VSWmMh66g",
+      "id": "s7t5jnpkCkI",
+      "snippet": {
+        "publishedAt": "2023-06-21T14:50:42Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tsjpttwml0Npt3XWe0VSWmMh66g",
+      "id": "s7t5jnpkCkI",
+      "snippet": {
+        "publishedAt": "2023-06-21T14:50:42Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tsjpttwml0Npt3XWe0VSWmMh66g",
+      "id": "s7t5jnpkCkI",
+      "snippet": {
+        "publishedAt": "2023-06-21T14:50:42Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tsjpttwml0Npt3XWe0VSWmMh66g",
+      "id": "s7t5jnpkCkI",
+      "snippet": {
+        "publishedAt": "2023-06-21T14:50:42Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tsjpttwml0Npt3XWe0VSWmMh66g",
+      "id": "s7t5jnpkCkI",
+      "snippet": {
+        "publishedAt": "2023-06-21T14:50:42Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tsjpttwml0Npt3XWe0VSWmMh66g",
+      "id": "s7t5jnpkCkI",
+      "snippet": {
+        "publishedAt": "2023-06-21T14:50:42Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tsjpttwml0Npt3XWe0VSWmMh66g",
+      "id": "s7t5jnpkCkI",
+      "snippet": {
+        "publishedAt": "2023-06-21T14:50:42Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+        "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s7t5jnpkCkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nintendo Direct 6.21.2023 - Nintendo Switch",
+          "description": "Watch the latest Nintendo Direct livestream featuring information focused mainly on Nintendo Switch titles launching this year, including new details on Pikmin 4.\n\n00:00 – Intro\n00:14 – The Hidden Treasure of Area Zero for Pokémon Scarlet or Pokémon Violet\n04:25 – Sonic Superstars\n05:37 – Palia\n06:36 – Persona 5 Tactica\n07:55 – MythForce\n08:52 – Splatoon 3 Splatfest July 2023\n10:03 – Detective Pikachu Returns\n11:47 – Super Mario RPG\n14:19 – Princess Peach game for Nintendo Switch\n14:55 – Visually enhanced Luigi’s Mansion: Dark Moon for Nintendo Switch\n15:36 – Batman: Arkham Trilogy\n17:10 – Gloomhaven\n18:10 – JUST DANCE 2024 EDITION\n19:18 – Silent Hope\n20:48 – Fae Farm\n21:23 – HOT WHEELS UNLEASHED 2 - TURBOCHARGED\n21:57 – Manic Mechanics\n22:27 – Mario + Rabbids Sparks of Hope DLC 2: The Last Spark Hunter\n23:04 – DRAGON QUEST MONSTERS: The Dark Prince\n24:57 – Pikmin 4\n29:44 – METAL GEAR SOLID: MASTER COLLECTION Vol.1\n31:11 – Vampire Survivors\n32:09 – Headbangers Rhythm Royale\n33:06 – Penny's Big Breakaway\n34:09 – Mario Kart 8 Deluxe - Booster Course Pass Wave 5\n35:11 – STAR OCEAN THE SECOND STORY R\n36:44 – WarioWare: Move it!\n38:20 – Nintendo Live 2023\n39:21 – amiibo figures of Zelda and Ganondorf from The Legend of Zelda: Tears of the Kingdom\n40:02 – Super Mario Bros. Wonder\n\n#NintendoDirect #NintendoSwitch\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/NintendoAmerica\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ]
+}

@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 // router
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import VideosHot from './Components/videos/VideosHot';
+import VideosHot from './Components/videosHot/VideosHot';
 import Watch from './Components/Pages/Watch';
 import NotFound from './Components/Pages/NotFound';
 import VideosSearch from './Components/Pages/search/VideosSearch';
@@ -20,6 +20,10 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
+        element: <VideosHot />
+      },
+      {
+        path: '/videos',
         element: <VideosHot />
       },
       {
