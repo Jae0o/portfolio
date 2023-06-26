@@ -1,27 +1,54 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import styles from '../../../CSS/VideoCard.module.css';
 import { Link } from 'react-router-dom';
+import { useQuery } from '@tanstack/react-query';
+import Error from '../Error';
 
-export default function VideoCard({ videoCode, channelCode, description }) {
+
+
+export default function VideoCard({ videoCode, channelCode, description, etag }) {
 
   const [VideoItems, setVideoItems] = useState();
   const [ChannelItems, setChannelItems] = useState();
 
+  const { error: videoError } = useQuery(
+    ["Video", videoCode], async () => {
+      return fetch(`/data/search/videos/${videoCode}.json`)
+        .then(data => data.json())
+        .then(JSON => {
+          setVideoItems(...JSON.items)
+          return JSON.items
+        })
+    }
+  );
+
+  const { error: channelError } = useQuery(
+    ["channel", etag], async () => {
+      return fetch(`/data/search/channel/${channelCode}.json`)
+        .then(data => data.json())
+        .then(data => {
+          setChannelItems(...data.items)
+          return { ...data.items }
+        })
+    }
+  );
 
   //  Use Mock Data
-  useEffect(() => {
-    fetch(`/data/search/videos/${videoCode}.json`)
-      .then((data) => data.json())
-      .then((JSON) => setVideoItems(...JSON.items))
-  }, [videoCode]);
+  // useEffect(() => {
+  //   fetch(`/data/search/videos/${videoCode}.json`)
+  //     .then((data) => data.json())
+  //     .then((JSON) => setVideoItems(...JSON.items))
+  // }, [videoCode]);
 
-  useEffect(() => {
-    fetch(`/data/search/channel/${channelCode}.json`)
-      .then((data) => data.json())
-      .then((JSON) => setChannelItems(...JSON.items))
-  }, [channelCode])
+  // useEffect(() => {
+  //   fetch(`/data/search/channel/${channelCode}.json`)
+  //     .then((data) => data.json())
+  //     .then((JSON) => setChannelItems(...JSON.items))
+  // }, [channelCode])
 
   const linkUrl = `/watch/${videoCode}`;
+  if (videoError || channelError) return <Error />
+
 
   return (
     <Link
@@ -30,7 +57,7 @@ export default function VideoCard({ videoCode, channelCode, description }) {
       <div className={styles.videoCard_imgBox}>
         <img
           className={styles.videoCard_imgBox_thumbnail}
-          src={VideoItems?.snippet.thumbnails?.high?.url}
+          src={VideoItems?.snippet?.thumbnails?.high?.url}
           width={VideoItems?.snippet.thumbnails?.medium?.width}
           height={VideoItems?.snippet.thumbnails?.medium?.height}
           alt="videoThumbnail"

@@ -10,34 +10,6 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "lUW_7qGeEoqvUkZTLSJ2twIqS2A",
-            "id": {
-                "kind": "youtube#channel",
-                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA"
-            },
-            "snippet": {
-                "publishedAt": "2013-01-20T18:45:01Z",
-                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA",
-                "title": "보다 BODA",
-                "description": "누구나, 쉽게, 재밌게 볼 수 있는 영상 광고 및 비즈니스 문의 : boooda.kr@gmail.com 제작 : 어썸엔터테인먼트 (주)",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s88-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s240-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s800-c-k-c0xffffffff-no-rj-mo"
-                    }
-                },
-                "channelTitle": "보다 BODA",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2013-01-20T18:45:01Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "IPUgrWZ6lyhaix47vbF_eL9Gbyw",
             "id": {
                 "kind": "youtube#video",
@@ -68,6 +40,34 @@
                 "channelTitle": "보다 BODA",
                 "liveBroadcastContent": "none",
                 "publishTime": "2023-04-21T10:36:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lUW_7qGeEoqvUkZTLSJ2twIqS2A",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA"
+            },
+            "snippet": {
+                "publishedAt": "2013-01-20T18:45:01Z",
+                "channelId": "UCoCvTlU0KpNYwnMIgs7MPrA",
+                "title": "보다 BODA",
+                "description": "누구나, 쉽게, 재밌게 볼 수 있는 영상 광고 및 비즈니스 문의 : boooda.kr@gmail.com 제작 : 어썸엔터테인먼트 (주)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/MhtUfIKUs35w10_ph3bxLHO_OcytlGfBwySnQKdoL-uwyrh8dxfd5IJkIejRoWGdeQxiy5DGKQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "보다 BODA",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2013-01-20T18:45:01Z"
             }
         },
         {

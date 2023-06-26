@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import styles from '../CSS/Navbar.module.css';
-import { BsSearch } from 'react-icons/bs';
+import { BsSearch, BsYoutube } from 'react-icons/bs';
+
 
 export default function Navbar() {
   const { keyword } = useParams();
@@ -10,36 +11,29 @@ export default function Navbar() {
 
   const Navigate = useNavigate();
 
-  const OnChange = (e) => { setText(e) };
-
-  const OnSubmit = (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
-    if (Text.trim().length === 0) {
-      return
-    } else {
-      Navigate(`/videos/${Text}`)
-    }
-  };
-
-  const logoUrl = 'Logo/yt_logo_rgb_light.png';
+    Navigate(`/videos/${Text}`)
+  }
 
   // 뒤돌아 가기시 검색창 또한 이전의 검색 결과와 같게 만들어주기 위한 Effect
-  useEffect(() => { setText(keyword || "") }, [keyword])
+  useEffect(() => setText(keyword || ""), [keyword])
 
   return (
     <nav className={styles.nav_box}>
       <Link to='/' className={styles.nav_logo}>
-        <img className={styles.nav_logo_img} src={logoUrl} alt='Nav_Logo' />
+        <BsYoutube className={styles.nav_logo_icon} />
+        <h1 className={styles.nav_logo_title}>Youtube</h1>
       </Link>
 
-      <form onSubmit={OnSubmit} className={styles.nav_form}>
+      <form className={styles.nav_form}>
         <input
           className={styles.nav_form_input}
           type='text'
           placeholder='Search...'
-          onChange={(e) => OnChange(e.target.value.trim())}
+          onChange={(e) => setText(e.target.value.trim())}
           value={Text} />
-        <button className={styles.nav_form_button}> <BsSearch /></button>
+        <button className={styles.nav_form_button} onClick={handleSubmit}> <BsSearch /></button>
       </form>
     </nav>
   )

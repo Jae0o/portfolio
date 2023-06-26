@@ -19,8 +19,6 @@ export default function HotVideoCard({ channelCode, videoCode }) {
       .then((JSON) => setVideoItems(...JSON.items))
   }, [videoCode])
 
-  console.log(ChannelItems)
-  console.log(VideosItems)
 
   const linkUrl = `/watch/${videoCode}`
 
