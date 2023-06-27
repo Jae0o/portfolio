@@ -1,16 +1,18 @@
 import React from 'react'
 import { useQuery } from 'react-query';
 import { useParams } from 'react-router-dom';
-import axios from 'axios';
+import { YoutubeApi } from '../api/YoutubeApi';
 
 export default function SearchVideos() {
   const { keyword } = useParams();
   console.log(keyword)
 
-  const { data: searchingVideos } = useQuery(["searchingVideosItems", keyword], () => {
-    return axios(`/data/${keyword}.json`)
-      .then((res) => { return res.data.items })
+
+  const { data: searchingVideos } = useQuery([keyword], () => {
+    const youtube = new YoutubeApi();
+    return youtube.findApi(keyword);
   })
+
   console.log(searchingVideos)
 
 
