@@ -33,6 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:13.5.0"],\
             ["axios", "npm:1.4.0"],\
+            ["dotenv-webpack", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:8.0.1"],\
             ["eslint-config-react-app", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:18.2.0"],\
@@ -8102,6 +8103,23 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:10.0.0"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:8.6.0", {\
+          "packageLocation": "./.yarn/cache/dotenv-npm-8.6.0-2ce3e9f7bb-38e902c80b.zip/node_modules/dotenv/",\
+          "packageDependencies": [\
+            ["dotenv", "npm:8.6.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["dotenv-defaults", [\
+        ["npm:2.0.2", {\
+          "packageLocation": "./.yarn/cache/dotenv-defaults-npm-2.0.2-436a76242a-c005960bd0.zip/node_modules/dotenv-defaults/",\
+          "packageDependencies": [\
+            ["dotenv-defaults", "npm:2.0.2"],\
+            ["dotenv", "npm:8.6.0"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["dotenv-expand", [\
@@ -8109,6 +8127,29 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/dotenv-expand-npm-5.1.0-c3fff50eb5-8017675b7f.zip/node_modules/dotenv-expand/",\
           "packageDependencies": [\
             ["dotenv-expand", "npm:5.1.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["dotenv-webpack", [\
+        ["npm:8.0.1", {\
+          "packageLocation": "./.yarn/cache/dotenv-webpack-npm-8.0.1-36e1a1f481-ee73eda78d.zip/node_modules/dotenv-webpack/",\
+          "packageDependencies": [\
+            ["dotenv-webpack", "npm:8.0.1"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:8.0.1", {\
+          "packageLocation": "./.yarn/__virtual__/dotenv-webpack-virtual-433125f6ab/0/cache/dotenv-webpack-npm-8.0.1-36e1a1f481-ee73eda78d.zip/node_modules/dotenv-webpack/",\
+          "packageDependencies": [\
+            ["dotenv-webpack", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:8.0.1"],\
+            ["@types/webpack", null],\
+            ["dotenv-defaults", "npm:2.0.2"],\
+            ["webpack", null]\
+          ],\
+          "packagePeers": [\
+            "@types/webpack",\
+            "webpack"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -18270,6 +18311,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:13.5.0"],\
             ["axios", "npm:1.4.0"],\
+            ["dotenv-webpack", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:8.0.1"],\
             ["eslint-config-react-app", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:6ef7721d5c4e756d0ccd332c5bb660a9a05e3cdb2791a94446a73187f622b413613958fcf8a23286519acd7a7aa2d7cd87b74a04e37042241fa7b84e18a37886#npm:18.2.0"],\

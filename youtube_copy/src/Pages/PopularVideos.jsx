@@ -1,20 +1,25 @@
 import React from 'react'
-import { useQuery } from 'react-query';
-import { YoutubeApi } from '../api/YoutubeApi';
+import { useQuery } from '@tanstack/react-query';
+// import { YoutubeApi } from '../api/YoutubeApi';
+import { FakeApi } from '../api/FakeApi';
+import PopularVideoCard from '../Components/PopularVideoCard';
 
 
 export default function PopularVideos() {
+  const querykey = ["popularVideosData"]
   const { isLoading, error, data: popularVideos } = useQuery(
-    "popularVideosData", () => {
-      const youtube = new YoutubeApi();
+    querykey, () => {
+      const youtube = new FakeApi();
       return youtube.findApi();
     })
-
-  console.log(popularVideos)
 
   if (isLoading) return <p>Loading</p>
   if (error) return <p>error</p>
   return (
-    <div>PopularVideos</div>
+    <section>
+      {popularVideos && popularVideos.map((item, index) => (
+        <PopularVideoCard videosId={item.id} key={index + "popularVideoCard"} />
+      ))}
+    </section>
   )
 }

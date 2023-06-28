@@ -1,7 +1,8 @@
 import React from 'react'
-import { useQuery } from 'react-query';
+import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
-import { YoutubeApi } from '../api/YoutubeApi';
+// import { YoutubeApi } from '../api/YoutubeApi';
+import { FakeApi } from '../api/FakeApi';
 
 export default function SearchVideos() {
   const { keyword } = useParams();
@@ -9,7 +10,7 @@ export default function SearchVideos() {
 
 
   const { data: searchingVideos } = useQuery([keyword], () => {
-    const youtube = new YoutubeApi();
+    const youtube = new FakeApi();
     return youtube.findApi(keyword);
   })
 

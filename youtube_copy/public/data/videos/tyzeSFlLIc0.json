@@ -1,0 +1,97 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "t9N2g-3u_hZuplETqrKmqJNTuUM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "a8yOzTY0oBwwr5QGFAFnC5wd3Gc",
+      "id": "tyzeSFlLIc0",
+      "snippet": {
+        "publishedAt": "2023-06-26T12:45:04Z",
+        "channelId": "UChDKyKQ59fYz3JO2fl0Z6sg",
+        "title": "Mother of 19-year-old on Titan submersible speaks out",
+        "description": "The United States Coast Guard says it’s convening a marine board of investigators to figure out what caused the deep-sea implosion of OceanGate’s Titan submersible. Meanwhile, the wife and mother of two of the passengers is opening up about her last moments with them. NBC’s Emilie Ikeda reports for TODAY.\n\n» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY\n» Watch the latest from TODAY: http://bit.ly/LatestTODAY\nAbout: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.\n\nConnect with TODAY Online!\nVisit TODAY's Website: http://on.today.com/ReadTODAY\nFind TODAY on Facebook: http://on.today.com/LikeTODAY\nFollow TODAY on Twitter: http://on.today.com/FollowTODAY\nFollow TODAY on Instagram: http://on.today.com/InstaTODAY\n\n» Stream TODAY All Day: https://www.today.com/allday\nAbout: TODAY All Day is a 24/7 streaming channel bringing you the top stories in news and pop culture, celebrity interviews, cooking, and more. All in one place.\n\n#titan #titanic #submersible",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TODAY",
+        "tags": [
+          "Al Roker",
+          "Entertainment",
+          "Food",
+          "Hoda Kotb",
+          "International News",
+          "Money",
+          "Natalie Morales",
+          "Savannah Gutherie",
+          "Sports",
+          "Style",
+          "Today",
+          "Today Show",
+          "breaking news",
+          "concerts",
+          "domestic news",
+          "health",
+          "home",
+          "interviews",
+          "media",
+          "parents",
+          "pets",
+          "politics",
+          "shopping",
+          "weather"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Mother of 19-year-old on Titan submersible speaks out",
+          "description": "The United States Coast Guard says it’s convening a marine board of investigators to figure out what caused the deep-sea implosion of OceanGate’s Titan submersible. Meanwhile, the wife and mother of two of the passengers is opening up about her last moments with them. NBC’s Emilie Ikeda reports for TODAY.\n\n» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY\n» Watch the latest from TODAY: http://bit.ly/LatestTODAY\nAbout: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.\n\nConnect with TODAY Online!\nVisit TODAY's Website: http://on.today.com/ReadTODAY\nFind TODAY on Facebook: http://on.today.com/LikeTODAY\nFollow TODAY on Twitter: http://on.today.com/FollowTODAY\nFollow TODAY on Instagram: http://on.today.com/InstaTODAY\n\n» Stream TODAY All Day: https://www.today.com/allday\nAbout: TODAY All Day is a 24/7 streaming channel bringing you the top stories in news and pop culture, celebrity interviews, cooking, and more. All in one place.\n\n#titan #titanic #submersible"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3309086",
+        "likeCount": "10438",
+        "favoriteCount": "0",
+        "commentCount": "3228"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

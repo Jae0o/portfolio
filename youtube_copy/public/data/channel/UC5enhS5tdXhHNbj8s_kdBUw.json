@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "w_1xcQhQujUCLeSsL5ZMnowRaHM",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "PwQmgcTPw_dQZzTSoL2yRRem_8k",
+      "id": "UC5enhS5tdXhHNbj8s_kdBUw",
+      "snippet": {
+        "title": "FusionZGamer",
+        "description": "Welcome to my channel! :D\nI play the latest games such as Five Nights at Freddys, Bendy and the Ink Machine, and all things horror! FusionZGamer is a channel for all ages, so have fun!\n\nMy Twitter: https://twitter.com/FusionZGamer\n",
+        "customUrl": "@fusionzgamer",
+        "publishedAt": "2011-07-04T08:48:07Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/xITE7AxbuVBorJ6acAlMZtNwIGCVJIOz2B_9ZJX_TLiAzoJWIULQ4K5J_RXcDiz-rWSDGouvxw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/xITE7AxbuVBorJ6acAlMZtNwIGCVJIOz2B_9ZJX_TLiAzoJWIULQ4K5J_RXcDiz-rWSDGouvxw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/xITE7AxbuVBorJ6acAlMZtNwIGCVJIOz2B_9ZJX_TLiAzoJWIULQ4K5J_RXcDiz-rWSDGouvxw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "FusionZGamer",
+          "description": "Welcome to my channel! :D\nI play the latest games such as Five Nights at Freddys, Bendy and the Ink Machine, and all things horror! FusionZGamer is a channel for all ages, so have fun!\n\nMy Twitter: https://twitter.com/FusionZGamer\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU5enhS5tdXhHNbj8s_kdBUw"
+        }
+      },
+      "statistics": {
+        "viewCount": "1717674064",
+        "subscriberCount": "3850000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4050"
+      }
+    }
+  ]
+}

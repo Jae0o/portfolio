@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "oJcKQ-fVuts6QJ7BG0xDmApIs5c",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "xRdmtS0ObsJla9kJrFwXrqKpBJ0",
+      "id": "UCDfYcuNw-ff952Xn0VDWwDw",
+      "snippet": {
+        "title": "Dawko",
+        "description": "What's going on guys! \n\nIf you like an annoying voiced British guy screaming his brains out at jumpscares, you have come to the right place!\n\nThankyou for all the support over the years.\n",
+        "customUrl": "@dawko",
+        "publishedAt": "2014-01-08T23:03:53Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/c354dXwC72Qr6VNCck_Jv7BRM-qg7JY7mkt_r0pME0sI-OtXo7ZvtHOmYlomU2N0ZcF0wPZyVA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/c354dXwC72Qr6VNCck_Jv7BRM-qg7JY7mkt_r0pME0sI-OtXo7ZvtHOmYlomU2N0ZcF0wPZyVA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/c354dXwC72Qr6VNCck_Jv7BRM-qg7JY7mkt_r0pME0sI-OtXo7ZvtHOmYlomU2N0ZcF0wPZyVA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Dawko",
+          "description": "What's going on guys! \n\nIf you like an annoying voiced British guy screaming his brains out at jumpscares, you have come to the right place!\n\nThankyou for all the support over the years.\n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUDfYcuNw-ff952Xn0VDWwDw"
+        }
+      },
+      "statistics": {
+        "viewCount": "715902631",
+        "subscriberCount": "2010000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2903"
+      }
+    }
+  ]
+}

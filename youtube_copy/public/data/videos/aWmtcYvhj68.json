@@ -1,0 +1,101 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "4nKpUJZohHGjW12j5LNZsF5uU2A",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "hwJEvl9vbRdqTFoDmHyJARqigYQ",
+      "id": "aWmtcYvhj68",
+      "snippet": {
+        "publishedAt": "2023-06-27T16:02:14Z",
+        "channelId": "UCE5mQnNl8Q4H2qcv4ikaXeA",
+        "title": "Futurama | Official Trailer | New Season July 24 | Hulu",
+        "description": "Stream all episodes now on Hulu. New season July 24.\n\nABOUT FUTURAMA\nWhile delivering pizza on New Year's Eve 1999, Philip J. Fry is accidentally cryonically frozen and thawed out one thousand years into the future. From the creator of \"The Simpsons,\" \"Futurama\" is a sci-fi animated comedy.\n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confi\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like Only Murders In The Building, The Handmaid’s Tale, The Kardashians, and more! Visit Hulu.com to subscribe now.\n\n#hulu #disney #futurama \n\nFuturama | Official Trailer | New Season July 24 | Hulu\nhttps://youtu.be/aWmtcYvhj68",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aWmtcYvhj68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aWmtcYvhj68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aWmtcYvhj68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aWmtcYvhj68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aWmtcYvhj68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hulu",
+        "tags": [
+          "hulu",
+          "disney",
+          "hulu movies",
+          "hulu shows",
+          "Futurama",
+          "Futurama only on hulu",
+          "Futurama hulu",
+          "hulu originals",
+          "Sagal",
+          "Futurama teaser",
+          "Futurama trailer",
+          "Futurama new season",
+          "Futurama new",
+          "Futurama 2023",
+          "new futurama episodes",
+          "hulu futurama",
+          "disney+",
+          "The Simpsons",
+          "cryonically frozen",
+          "sci-fi animated comedy",
+          "Philip J. Fry",
+          "Futurama on hulu",
+          "Official Trailer",
+          "Trailer",
+          "Futurama Hulu",
+          "Futurama | Official Trailer | Hulu",
+          "Futurama Official Trailer",
+          "Futurama Trailer"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Futurama | Official Trailer | New Season July 24 | Hulu",
+          "description": "Stream all episodes now on Hulu. New season July 24.\n\nABOUT FUTURAMA\nWhile delivering pizza on New Year's Eve 1999, Philip J. Fry is accidentally cryonically frozen and thawed out one thousand years into the future. From the creator of \"The Simpsons,\" \"Futurama\" is a sci-fi animated comedy.\n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confi\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like Only Murders In The Building, The Handmaid’s Tale, The Kardashians, and more! Visit Hulu.com to subscribe now.\n\n#hulu #disney #futurama \n\nFuturama | Official Trailer | New Season July 24 | Hulu\nhttps://youtu.be/aWmtcYvhj68"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3674413",
+        "likeCount": "40904",
+        "favoriteCount": "0",
+        "commentCount": "3625"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
