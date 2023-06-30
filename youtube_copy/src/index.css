@@ -39,3 +39,10 @@ button {
   border: none;
   outline: none;
 }
+
+img {
+  margin: 0px;
+  padding: 0px;
+  border: 0;
+  background: transparent;
+}

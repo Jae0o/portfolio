@@ -16,3 +16,7 @@
 .search_channelCard {
   border-top: 1px #aaaaaa solid;
 }
+
+.search_videosCard {
+  padding-top: 20px;
+}

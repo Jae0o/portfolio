@@ -1,0 +1,66 @@
+.searchingVideosCard_lineBox {
+  width: 90vw;
+  display: flex;
+  justify-content: flex-start;
+  height: 100%;
+  padding: 4px 0px;
+}
+
+.searchingVideosCard_box {
+  max-width: 1400px;
+  display: flex;
+  align-items: center;
+}
+
+.searchingVideosCard_imgBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 360px;
+  height: 200px;
+}
+
+.searchingVideosCard_imgBox_thumbnail {
+  width: 360px;
+  height: 200px;
+  border-radius: 16px;
+}
+
+.searchingVideosCard_textBox {
+  height: 200px;
+  padding-left: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.searchingVideosCard_textBox_title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 4px;
+  margin: 0px;
+  font-size: 18px;
+}
+
+.searchingVideosCard_textBox_info {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.searchingVideosCard_textbox_info_dot {
+  padding: 0px 4px;
+}
+
+.searchingVideosCard_textBox_des {
+  font-size: 12px;
+  font-weight: 600;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0px;
+}

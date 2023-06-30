@@ -1,0 +1,25 @@
+.channelInfo_lineBox {
+  height: 50px;
+  width: 100%;
+  padding: 12px 0px;
+}
+
+.channelInfo_box {
+  display: flex;
+  align-items: center;
+  height: 24px;
+}
+
+.channelInfo_imgBox_thumbnail {
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+}
+
+.channelInfo_box_title {
+  font-size: 12px;
+  margin: 0px;
+  font-weight: 400;
+  padding-left: 4px;
+  text-align: center;
+}

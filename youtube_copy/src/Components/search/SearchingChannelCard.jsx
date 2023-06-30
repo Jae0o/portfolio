@@ -19,7 +19,7 @@ export default function SearchingChannelCard({ channelId }) {
   return (
     <ul
       className={styles.SearchingChannelCard_linkBox}>
-      {channelItems && channelItems.map((items, index) => (
+      {channelItems && channelItems.map((items) => (
         <Link
           className={styles.searchingChannelCard_box}
           key={items.id}
