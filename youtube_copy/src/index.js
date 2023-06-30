@@ -9,6 +9,7 @@ import Watch from './Pages/Watch';
 import SearchVideos from './Pages/SearchVideos';
 import ErrorPage from './Pages/ErrorPage';
 import PopularVideos from './Pages/PopularVideos';
+import ChannelInfo from './Pages/ChannelInfo';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -32,8 +33,12 @@ const router = createBrowserRouter([
         element: <SearchVideos />
       },
       {
-        path: '/watch/:videoID',
+        path: '/watch/:videoId',
         element: <Watch />
+      },
+      {
+        path: '/channels/:channelId',
+        element: <ChannelInfo />
       }
     ]
   }

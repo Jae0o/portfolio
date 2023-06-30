@@ -2,7 +2,7 @@ import React from 'react'
 import { useQuery } from '@tanstack/react-query';
 // import { YoutubeApi } from '../api/YoutubeApi';
 import { FakeApi } from '../api/FakeApi';
-import PopularVideoCard from '../Components/PopularVideoCard';
+import PopularVideoCard from '../Components/popular/PopularVideoCard';
 
 
 export default function PopularVideos() {
