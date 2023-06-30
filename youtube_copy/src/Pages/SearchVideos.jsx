@@ -1,4 +1,5 @@
 import React from 'react'
+import styles from '../CSS/SearchVideos.module.css'
 import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
 // import { YoutubeApi } from '../api/YoutubeApi';
@@ -16,20 +17,24 @@ export default function SearchVideos() {
 
 
   return (
-    <section>
-      {searchingVideos && searchingVideos
-        .filter((items) => items.id.kind === "youtube#channel")
-        .map((items, index) => (
-          <SearchingChannelCard key={index + 'SearchingChannelCard'} channelId={items.id.channelId} />
-        ))}
-      {searchingVideos && searchingVideos
-        .filter((items) => items.id.kind === "youtube#video")
-        .map((items, index) => (
-          <SearchingVideosCard
-            key={index + 'SearchingChannelCard'}
-            videoId={items.id.videoId}
-            channelId={items.snippet.channelId} />
-        ))}
+    <section className={styles.search_box}>
+      <div className={styles.search_channelCard}>
+        {searchingVideos && searchingVideos
+          .filter((items) => items.id.kind === "youtube#channel")
+          .map((items, index) => (
+            <SearchingChannelCard key={index + 'SearchingChannelCard'} channelId={items.id.channelId} />
+          ))}
+      </div>
+      <div className={styles.search_videosCard}>
+        {searchingVideos && searchingVideos
+          .filter((items) => items.id.kind === "youtube#video")
+          .map((items, index) => (
+            <SearchingVideosCard
+              key={index + 'SearchingChannelCard'}
+              videoId={items.id.videoId}
+              channelId={items.snippet.channelId} />
+          ))}
+      </div>
     </section>
   )
 }

@@ -14,17 +14,18 @@ export default function SearchingVideosCard({ videoId }) {
       return CallApi.findVideoDetail(videoId);
     }
   )
+  console.log(videoItems)
 
   return (
-    <Link >
+    <div>
       {videoItems && videoItems.map((items, index) => (
-        <div key={index + 'searchingVideoCard'}>
+        <div key={items.id}>
           <h1>{items.snippet.title}</h1>
 
 
           <SearchingChannelInfo channelId={items.snippet.channelId} />
         </div>
       ))}
-    </Link>
+    </div>
   )
 }
