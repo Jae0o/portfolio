@@ -3,6 +3,20 @@
   height: 100%;
   border-bottom: 1px #aaaaaa solid;
   padding: 20px 0px;
+  transition: all 0.3s 0.1s;
+
+}
+
+.SearchingChannelCard_linkBox:hover {
+  transform: scale(1.002);
+}
+
+.SearchingChannelCard_linkBox .channelCard_imgBox_logo {
+  transition: all 0.3s 0.1s;
+}
+
+.SearchingChannelCard_linkBox:hover .channelCard_imgBox_logo {
+  transform: scale(1.1);
 }
 
 .searchingChannelCard_box {

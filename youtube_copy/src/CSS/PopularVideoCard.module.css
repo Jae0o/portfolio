@@ -1,0 +1,61 @@
+.popularCard {
+  width: 380px;
+  height: 340px;
+  padding-right: 20px;
+}
+
+.popularCard_box_thumbnail {
+  width: 360px;
+  height: 200px;
+  border-radius: 15px;
+}
+
+.popularCard_box {
+  transition: all 0.3s 0.1s;
+}
+
+.popularCard_box:hover {
+  transform: scale(1.02);
+}
+
+.popularCard_box .popularCard_box_thumbnail {
+  transition: all 0.3s 0.1s;
+}
+
+.popularCard_box:hover .popularCard_box_thumbnail {
+  border-radius: 0px;
+}
+
+.popularCard_infoBox_textBox_title {
+  margin: 0px;
+  padding-bottom: 4px;
+  font-size: 18px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.popularCard_infoBox_textBox_channeltitle {
+  margin: 0px;
+  padding-bottom: 2px;
+  font-size: 14px;
+}
+
+.popularCard_infoBox_textBox_videosInfo_view,
+.popularCard_infoBox_textBox_videosInfo_at {
+  font-size: 14px;
+}
+
+.popularCard_infobBox {
+  display: flex;
+  padding-top: 8px;
+}
+
+.popularCard_infoBox_textBox {
+  padding-left: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}

@@ -4,19 +4,31 @@
   justify-content: flex-start;
   height: 100%;
   padding: 4px 0px;
+  transition: all 0.3s 0.1s;
+
+}
+
+.searchingVideosCard_lineBox .searchingVideosCard_imgBox_thumbnail {
+  transition: all 0.3s 0.1s;
+}
+
+.searchingVideosCard_lineBox:hover .searchingVideosCard_imgBox_thumbnail {
+  border-radius: 0;
+}
+
+.searchingVideosCard_lineBox:hover {
+  transform: scale(1.002);
+  cursor: pointer;
 }
 
 .searchingVideosCard_box {
   max-width: 1400px;
   display: flex;
   align-items: center;
+  justify-content: flex-start;
 }
 
 .searchingVideosCard_imgBox {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 360px;
   height: 200px;
 }
 

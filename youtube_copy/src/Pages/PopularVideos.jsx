@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import styles from '../CSS/PopularVideos.module.css'
 import { useQuery } from '@tanstack/react-query';
 // import { YoutubeApi } from '../api/YoutubeApi';
 import { FakeApi } from '../api/FakeApi';
@@ -13,13 +14,16 @@ export default function PopularVideos() {
       return youtube.findApi();
     })
 
+
   if (isLoading) return <p>Loading</p>
   if (error) return <p>error</p>
   return (
-    <section>
-      {popularVideos && popularVideos.map((item, index) => (
-        <PopularVideoCard videosId={item.id} key={index + "popularVideoCard"} />
-      ))}
+    <section className={styles.popularOutBox}>
+      <div className={styles.popularBox}>
+        {popularVideos && popularVideos.map((item, index) => (
+          <PopularVideoCard videosId={item.id} key={index + "popularVideoCard"} />
+        ))}
+      </div>
     </section>
   )
 }
