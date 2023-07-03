@@ -1,0 +1,83 @@
+.fullInfo_des {
+  font-family: Arial, sans-serif;
+  margin: 6px 0;
+  white-space: pre-wrap;
+  text-overflow: ellipsis;
+}
+
+.fullInfo_textBox_top_date,
+.fullInfo_textBox_top_view,
+.fullInfo_des {
+  color: #f1f1f1;
+  font-size: 14px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.fullInfo_textBox_top_view {
+  margin-right: 8px;
+}
+
+.fullInfo_channel {
+
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 6px #aaaaaa solid;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.fullInfo_channel_thumbnail {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+}
+
+.fullInfo_channel_textBox {
+  padding-left: 12px;
+  display: flex;
+  flex-direction: column;
+}
+
+.fullInfo_channel_textBox_title {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0px;
+  color: #f1f1f1;
+}
+
+.fullInfo_channel_textBox_subs {
+  padding-top: 4px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #f1f1f1;
+}
+
+.fullInfo_channel_btnsBox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 24px;
+}
+
+.fullInfo_channel_btns_video,
+.fullInfo_channel_btns_user {
+  width: 300px;
+  height: 34px;
+  border: #aaaaaa solid 1px;
+  background-color: #aaaaaa;
+  color: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 800;
+  border-radius: 15px;
+  margin-right: 12px;
+}
+
+.emoji_video,
+.emoji_user {
+  font-size: 24px;
+}

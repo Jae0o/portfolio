@@ -6,6 +6,7 @@ import { FakeApi } from '../../api/FakeApi';
 // import { YoutubeApi } from '../../api/YoutubeApi';
 import { BsBell } from 'react-icons/bs';
 import { IoIosArrowDown } from 'react-icons/io';
+import { NumberCount } from '../../util/count';
 
 export default function SearchingChannelCard({ channelId }) {
 
@@ -37,7 +38,9 @@ export default function SearchingChannelCard({ channelId }) {
             <div className={styles.channelCard_textBox_subtitle}>
               <span className={styles.channelCard_textBox_subtitle_id}>{items.snippet.customUrl}</span>
               <span className={styles.channelCard_textBox_subtitle_dot}>•</span>
-              <span className={styles.channelCard_textBox_subtitle_subs}>{items.statistics.subscriberCount}</span>
+              <span className={styles.channelCard_textBox_subtitle_subs}>
+                {`구독자 ${NumberCount(items.statistics.subscriberCount)}명`}
+              </span>
             </div>
             <p className={styles.channelCard_textBox_des}>{items.snippet.description}</p>
           </div>

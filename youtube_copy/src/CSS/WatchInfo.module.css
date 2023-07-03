@@ -1,0 +1,40 @@
+.watchInfo {
+  width: 100%;
+  margin-top: 24px;
+  padding: 12px;
+  background-color: #717171;
+  border-radius: 15px;
+
+}
+
+.watchInfo_box_top,
+.watchInfo_des,
+.watchInfo_fakeBtn,
+.reduce_btn {
+  color: #f1f1f1;
+  font-size: 14px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.watchInfo_box_top_view {
+  padding-right: 8px;
+}
+
+
+
+
+.watchInfo_des {
+  font-family: Arial, sans-serif;
+  margin: 6px 0;
+  white-space: pre-wrap;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reduce_btn {
+  padding-top: 36px;
+}

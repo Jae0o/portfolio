@@ -46,3 +46,7 @@ img {
   border: 0;
   background: transparent;
 }
+
+.offDisplay {
+  display: none;
+}

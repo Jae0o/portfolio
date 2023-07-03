@@ -4,6 +4,8 @@ import { useQuery } from '@tanstack/react-query';
 // import { Link } from 'react-router-dom';
 import { FakeApi } from '../../api/FakeApi';
 import SearchingChannelInfo from '../search/SearchingChannelInfo';
+import { NumberCount } from '../../util/count';
+import { dateFormat } from '../../util/data';
 // import { YoutubeApi } from '../../api/YoutubeApi';
 
 
@@ -38,9 +40,13 @@ export default function SearchingVideosCard({ videoId }) {
             <h1 className={styles.searchingVideosCard_textBox_title}>{items.snippet.title}</h1>
 
             <div className={styles.searchingVideosCard_textBox_info}>
-              <span className={styles.searchingVideosCard_textBox_info_view}>{items.statistics.viewCount}</span>
+              <span className={styles.searchingVideosCard_textBox_info_view}>
+                {`조회수 ${NumberCount(items.statistics.viewCount)}회`}
+              </span>
               <span className={styles.searchingVideosCard_textbox_info_dot}>•</span>
-              <span className={styles.searchingVideosCard_textBox_info_at}>{items.snippet.publishedAt}</span>
+              <span className={styles.searchingVideosCard_textBox_info_at}>
+                {dateFormat(items.snippet.publishedAt, "ko")}
+              </span>
             </div>
 
             <SearchingChannelInfo

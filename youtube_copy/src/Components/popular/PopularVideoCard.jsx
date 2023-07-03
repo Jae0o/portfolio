@@ -1,10 +1,12 @@
 import React from 'react';
-import styles from '../../CSS/PopularVideoCard.module.css'
+import styles from '../../CSS/PopularVideoCard.module.css';
 import { useQuery } from '@tanstack/react-query';
 // import { YoutubeApi } from '../../api/YoutubeApi';
 import { FakeApi } from '../../api/FakeApi';
 import PopularVideoChannelLogo from './PopularVideoChannelLogo';
-import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
+import { NumberCount } from '../../util/count';
+import { dateFormat } from '../../util/data';
 
 export default function PopularVideoCard({ videosId }) {
 
@@ -13,11 +15,13 @@ export default function PopularVideoCard({ videosId }) {
     return CallApi.findVideoDetail(videosId)
   });
 
+  const navigate = useNavigate();
 
   return (
-    <div className={styles.popularCard}>
+    <ul className={styles.popularCard}>
       {videoData && videoData.map((items) => (
-        <Link to={`/ss`}
+        <li
+          onClick={() => navigate(`/watch/${videosId}`, { state: { videoItems: items } })}
           className={styles.popularCard_box}
           key={items.id}
         >
@@ -37,14 +41,18 @@ export default function PopularVideoCard({ videosId }) {
               <h1 className={styles.popularCard_infoBox_textBox_title}>{items.snippet.title}</h1>
               <p className={styles.popularCard_infoBox_textBox_channeltitle}>{items.snippet.channelTitle}</p>
               <div className={styles.popularCard_infoBox_textBox_videosInfo}>
-                <span className={styles.popularCard_infoBox_textBox_videosInfo_view}>{items.statistics.viewCount}</span>
+                <span className={styles.popularCard_infoBox_textBox_videosInfo_view}>
+                  {`조회수 ${NumberCount(items.statistics.viewCount)}회`}
+                </span>
                 <span className={styles.popularCard_infoBox_textBox_videosInfo_dot} >•</span>
-                <span className={styles.popularCard_infoBox_textBox_videosInfo_at}>{items.snippet.publishedAt}</span>
+                <span className={styles.popularCard_infoBox_textBox_videosInfo_at}>
+                  {dateFormat(items.snippet.publishedAt, "ko")}
+                </span>
               </div>
             </div>
           </div>
-        </Link>
+        </li>
       ))}
-    </div>
+    </ul>
   )
 }

@@ -41,11 +41,13 @@
   margin: 0px;
   padding-bottom: 2px;
   font-size: 14px;
+  font-weight: 600;
 }
 
 .popularCard_infoBox_textBox_videosInfo_view,
 .popularCard_infoBox_textBox_videosInfo_at {
   font-size: 14px;
+  font-weight: 600;
 }
 
 .popularCard_infobBox {
@@ -53,9 +55,14 @@
   padding-top: 8px;
 }
 
+.popularCard_infoBox_textBox_videosInfo_dot {
+  padding: 0 2px;
+}
+
 .popularCard_infoBox_textBox {
   padding-left: 8px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  color: black;
 }
