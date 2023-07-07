@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../../CSS/SearchingChannelCard.module.css';
-import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import { FakeApi } from '../../api/FakeApi';
 // import { YoutubeApi } from '../../api/YoutubeApi';
@@ -9,7 +9,7 @@ import { IoIosArrowDown } from 'react-icons/io';
 import { NumberCount } from '../../util/count';
 
 export default function SearchingChannelCard({ channelId }) {
-
+  const navigate = useNavigate();
   const { data: channelItems } = useQuery(
     ['searchingChannelCard', channelId], () => {
       const CallApi = new FakeApi();
@@ -21,9 +21,10 @@ export default function SearchingChannelCard({ channelId }) {
     <ul
       className={styles.SearchingChannelCard_linkBox}>
       {channelItems && channelItems.map((items) => (
-        <Link
-          className={styles.searchingChannelCard_box}
+        <li
           key={items.id}
+          className={styles.searchingChannelCard_box}
+          onClick={() => navigate(`/channels/${channelId}`, { state: { channelItems: items } })}
         >
           <div className={styles.channelCard_imgBox}>
             <img
@@ -52,7 +53,7 @@ export default function SearchingChannelCard({ channelId }) {
             구독 버튼
             <IoIosArrowDown className={styles.emoji_downArrow} />
           </button>
-        </Link>
+        </li>
       ))}
     </ul>
   )

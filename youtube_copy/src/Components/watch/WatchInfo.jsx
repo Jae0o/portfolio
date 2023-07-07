@@ -21,7 +21,6 @@ export default function watchInfo({ videoItems, channelItems }) {
     Info.classList.add("offDisplay")
     const FullInfo = document.getElementById("watchFullInfo");
     FullInfo.classList.remove("offDisplay");
-    console.log(Info)
   }
 
   const onReduce = () => {
@@ -29,7 +28,6 @@ export default function watchInfo({ videoItems, channelItems }) {
     Info.classList.remove("offDisplay")
     const FullInfo = document.getElementById("watchFullInfo");
     FullInfo.classList.add("offDisplay");
-    console.log(Info)
   }
 
 
@@ -48,10 +46,13 @@ export default function watchInfo({ videoItems, channelItems }) {
             {ChangeDate(videoItems.snippet.publishedAt)}
           </span>
         </div>
+
         <pre className={styles.watchInfo_des} id='myPreTag'>
           {videoItems.snippet.description}
         </pre>
-        <p className={styles.watchInfo_fakeBtn}>더보기</p>
+
+        <span className={styles.watchInfo_fakeBtn}>더보기</span>
+
       </div>
 
       <div

@@ -1,23 +1,23 @@
 import React from 'react';
 import styles from '../../CSS/SearchingVidoesCard.module.css';
 import { useQuery } from '@tanstack/react-query';
-// import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { FakeApi } from '../../api/FakeApi';
+// import { YoutubeApi } from '../../api/YoutubeApi';
 import SearchingChannelInfo from '../search/SearchingChannelInfo';
 import { NumberCount } from '../../util/count';
 import { dateFormat } from '../../util/data';
-// import { YoutubeApi } from '../../api/YoutubeApi';
 
 
 
 export default function SearchingVideosCard({ videoId }) {
   const CallApi = new FakeApi();
+  const navigate = useNavigate();
   const { data: videoItems } = useQuery(
     ['searchingVideoCard', videoId], () => {
       return CallApi.findVideoDetail(videoId);
     }
   )
-  console.log(videoItems)
 
   return (
     <div className={styles.searchingVideosCard_lineBox}>
@@ -25,6 +25,7 @@ export default function SearchingVideosCard({ videoId }) {
         <div
           key={items.id}
           className={styles.searchingVideosCard_box}
+          onClick={() => { navigate(`/watch/${videoId}`, { state: { videoItems: items } }) }}
         >
           <div className={styles.searchingVideosCard_imgBox}>
             <img

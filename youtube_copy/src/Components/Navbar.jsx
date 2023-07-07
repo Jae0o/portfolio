@@ -31,7 +31,7 @@ export default function Navbar() {
           className={styles.nav_form_input}
           type='text'
           placeholder='Search...'
-          onChange={(e) => setText(e.target.value.trim())}
+          onChange={(e) => setText(e.target.value)}
           value={Text} />
         <button className={styles.nav_form_button} onClick={handleSubmit}> <BsSearch /></button>
       </form>

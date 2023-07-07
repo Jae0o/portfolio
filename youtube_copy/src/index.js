@@ -41,6 +41,17 @@ const router = createBrowserRouter([
         element: <ChannelInfo />
       }
     ]
+  },
+  {
+    path: '/channels/:channelId',
+    element: <ChannelInfo />,
+    errorElement: <ErrorPage />,
+    children: [
+      {
+        index: true,
+        element: <p>das</p>
+      }
+    ]
   }
 ]);
 
